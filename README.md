@@ -31,6 +31,7 @@ Fairness, accountability, transparity and ethics become more and more important 
 8. On measuring social biases in sentence encoders
 9. Social bias in elicited natural language inferences
 11. [Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change](https://cs.stanford.edu/people/jure/pubs/diachronic-acl16.pdf), [[gitub]](https://nlp.stanford.edu/projects/histwords/)
+- [RtGender: A Corpus for Studying Differential Responses to Gender](https://nlp.stanford.edu/robvoigt/rtgender/rtgender.pdf). It provides a dataset to evaluate bias in responses to gender. It could be used in bias detection in dialogue. 
 
 
 - #### Bias Mitigation
@@ -42,3 +43,5 @@ Fairness, accountability, transparity and ethics become more and more important 
 - 
 ### Others
 - [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP), ACL Wiki
+- [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/)
+
