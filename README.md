@@ -60,23 +60,28 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 #### Word Representations
 1. Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings. [[pdf]](https://arxiv.org/abs/1607.06520), [[github]](https://github.com/tolga-b/debiaswe)
 2. Semantics derived automatically from language corpora contain human-like biases. [[pdf]](https://science.sciencemag.org/content/356/6334/183)
-1. [Gender Bias in Contextualized Word Embeddings](https://www.aclweb.org/anthology/N19-1064), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Cotterell, Ryan  and Ordonez, Vicente  and Chang, Kai-Wei, 2019
-1. [Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings](https://www.aclweb.org/anthology/N19-1062), Manzini, Thomas  and Yao Chong, Lim  and Black, Alan W  and Tsvetkov, Yulia, 2019
-1. [Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings](https://www.aclweb.org/anthology/2020.tacl-1.32), Kumar, Vaibhav  and Bhotia, Tenzin Singhay  and Kumar, Vaibhav  and Chakraborty, Tanmoy, 2020
-1. [Measuring Bias in Contextualized Word Representations](https://www.aclweb.org/anthology/W19-3823), Kurita, Keita  and Vyas, Nidhi  and Pareek, Ayush  and Black, Alan W  and Tsvetkov, Yulia, 2019
-1. [Unmasking Contextual Stereotypes: Measuring and Mitigating {BERT}{'}s Gender Bias](https://www.aclweb.org/anthology/2020.gebnlp-1.1), Bartl, Marion  and Nissim, Malvina  and Gatt, Albert, 2020
-1. [Evaluating the Underlying Gender Bias in Contextualized Word Embeddings](https://www.aclweb.org/anthology/W19-3805), Basta, Christine  and Costa-juss{\`a}, Marta R.  and Casas, Noe, 2019
-1. [Evaluating Bias In {D}utch Word Embeddings](https://www.aclweb.org/anthology/2020.gebnlp-1.6), Ch{\'a}vez Mulsa, Rodrigo Alejandro  and Spanakis, Gerasimos, 2020
+3. [Attenuating Biases in Word Vectors](http://proceedings.mlr.press/v89/dev19a.html), Dev, Sunipa and Phillips, Jeff M, 2019
+4. [Gender Bias in Contextualized Word Embeddings](https://www.aclweb.org/anthology/N19-1064), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Cotterell, Ryan  and Ordonez, Vicente  and Chang, Kai-Wei, 2019
+5. [Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings](https://www.aclweb.org/anthology/N19-1062), Manzini, Thomas  and Yao Chong, Lim  and Black, Alan W  and Tsvetkov, Yulia, 2019
+6. [Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings](https://www.aclweb.org/anthology/2020.tacl-1.32), Kumar, Vaibhav  and Bhotia, Tenzin Singhay  and Kumar, Vaibhav  and Chakraborty, Tanmoy, 2020
+7. [Measuring Bias in Contextualized Word Representations](https://www.aclweb.org/anthology/W19-3823), Kurita, Keita  and Vyas, Nidhi  and Pareek, Ayush  and Black, Alan W  and Tsvetkov, Yulia, 2019
+8. [Unmasking Contextual Stereotypes: Measuring and Mitigating {BERT}{'}s Gender Bias](https://www.aclweb.org/anthology/2020.gebnlp-1.1), Bartl, Marion  and Nissim, Malvina  and Gatt, Albert, 2020
+9. [Evaluating the Underlying Gender Bias in Contextualized Word Embeddings](https://www.aclweb.org/anthology/W19-3805), Basta, Christine  and Costa-juss{\`a}, Marta R.  and Casas, Noe, 2019
+10. [Evaluating Bias In {D}utch Word Embeddings](https://www.aclweb.org/anthology/2020.gebnlp-1.6), Ch{\'a}vez Mulsa, Rodrigo Alejandro  and Spanakis, Gerasimos, 2020
 
 #### Natural Language Understanding
 1. [Reducing Gender Bias in Abusive Language Detection](https://www.aclweb.org/anthology/D18-1302), Park, Ji Ho  and Shin, Jamin  and Fung, Pascale, 2018
 1. [Gender Bias in Coreference Resolution](https://www.aclweb.org/anthology/N18-2002), Rudinger, Rachel  and Naradowsky, Jason  and Leonard, Brian  and Van Durme, Benjamin, 2018
 1. [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://www.aclweb.org/anthology/N18-2003), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Ordonez, Vicente  and Chang, Kai-Wei, 2018
-1. [Examining Gender Bias in Languages with Grammatical Gender](https://www.aclweb.org/anthology/D19-1531), Zhou, Pei  and Shi, Weijia  and Zhao, Jieyu  and Huang, Kuan-Hao  and Chen, Muhao  and Cotterell, Ryan  and Chang, Kai-Wei, 2019
-1. [Racial Bias in Hate Speech and Abusive Language Detection Datasets](https://www.aclweb.org/anthology/W19-3504), Davidson, Thomas  and Bhattacharya, Debasmita  and Weber, Ingmar, 2019
-1. [Social Biases in {NLP} Models as Barriers for Persons with Disabilities](https://www.aclweb.org/anthology/2020.acl-main.487), Hutchinson, Ben  and Prabhakaran, Vinodkumar  and Denton, Emily  and Webster, Kellie  and Zhong, Yu  and Denuyl, Stephen, 2020
-1. [Perturbation Sensitivity Analysis to Detect Unintended Model Biases](https://www.aclweb.org/anthology/D19-1578), Prabhakaran, Vinodkumar  and Hutchinson, Ben  and Mitchell, Margaret, 2019
-1. [{UNQOVER}ing Stereotyping Biases via Underspecified Questions](https://www.aclweb.org/anthology/2020.findings-emnlp.311), Li, Tao  and Khashabi, Daniel  and Khot, Tushar  and Sabharwal, Ashish  and Srikumar, Vivek, 2020
+1. [On Measuring and Mitigating Biased Inferences of Word Embeddings](https://arxiv.org/abs/1908.09369), Dev, Sunipa and Li, Tao  and Phillips, Jeff M  and Srikumar, Vivek, 2019
+3. [Examining Gender Bias in Languages with Grammatical Gender](https://www.aclweb.org/anthology/D19-1531), Zhou, Pei  and Shi, Weijia  and Zhao, Jieyu  and Huang, Kuan-Hao  and Chen, Muhao  and Cotterell, Ryan  and Chang, Kai-Wei, 2019
+4. [Racial Bias in Hate Speech and Abusive Language Detection Datasets](https://www.aclweb.org/anthology/W19-3504), Davidson, Thomas  and Bhattacharya, Debasmita  and Weber, Ingmar, 2019
+5. [Social Biases in {NLP} Models as Barriers for Persons with Disabilities](https://www.aclweb.org/anthology/2020.acl-main.487), Hutchinson, Ben  and Prabhakaran, Vinodkumar  and Denton, Emily  and Webster, Kellie  and Zhong, Yu  and Denuyl, Stephen, 2020
+6. [Perturbation Sensitivity Analysis to Detect Unintended Model Biases](https://www.aclweb.org/anthology/D19-1578), Prabhakaran, Vinodkumar  and Hutchinson, Ben  and Mitchell, Margaret, 2019
+7. [{UNQOVER}ing Stereotyping Biases via Underspecified Questions](https://www.aclweb.org/anthology/2020.findings-emnlp.311), Li, Tao  and Khashabi, Daniel  and Khot, Tushar  and Sabharwal, Ashish  and Srikumar, Vivek, 2020
+8. [OSCaR: Orthogonal Subspace Correction and Rectification of Biases in Word Embeddings](https://arxiv.org/abs/2007.00049), Dev, Sunipa and Li, Tao  and Phillips, Jeff M  and Srikumar, Vivek, 2020
+9. [{C}row{S}-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.154), Nangia, Nikita  and Vania, Clara  and Bhalerao, Rasika  and Bowman, Samuel R., 2020
+
 
 #### Natural Language Generation
 
@@ -271,7 +276,6 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [Lexical and Structural Biases for Function Parsing](https://www.aclweb.org/anthology/W05-1509), Musillo, Gabriele  and Merlo, Paola, 2005
 1. [Fact-Checking, Fake News, Propaganda, and Media Bias: Truth Seeking in the Post-Truth Era](https://www.aclweb.org/anthology/2020.emnlp-tutorials.2), Nakov, Preslav  and Da San Martino, Giovanni, 2020
 1. [Analyse automatique des noms d{\'e}verbaux compos{\'e}s : pourquoi et comment faire interagir analogie et syst{\`e}me de r{\`e}gles](https://www.aclweb.org/anthology/2009.jeptalnrecital-court.2), Namer, Fiammetta, 2009
-1. [{C}row{S}-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.154), Nangia, Nikita  and Vania, Clara  and Bhalerao, Rasika  and Bowman, Samuel R., 2020
 1. [{F}acebook {FAIR}{'}s {WMT}19 News Translation Task Submission](https://www.aclweb.org/anthology/W19-5333), Ng, Nathan  and Yee, Kyra  and Baevski, Alexei  and Ott, Myle  and Auli, Michael  and Edunov, Sergey, 2019
 1. [Noise Isn{'}t Always Negative: Countering Exposure Bias in Sequence-to-Sequence Inflection Models](https://www.aclweb.org/anthology/2020.coling-main.255), Nicolai, Garrett  and Silfverberg, Miikka, 2020
 1. [Fair Is Better than Sensational: Man Is to Doctor as Woman Is to Doctor](https://www.aclweb.org/anthology/2020.cl-2.7), Nissim, Malvina  and van Noord, Rik  and van der Goot, Rob, 2020
