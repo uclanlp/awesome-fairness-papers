@@ -13,19 +13,19 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 
 
 ## Contents
-- Paper List
-    - Surveys
-    - Social Impact of Biases
-    - Data, Models, & Metrics
-    - Word Representations
-    - Natural Language Understanding
-    - Natural Language Generation
-        - Machine Translation
-        - Dialogue Generation
-        - Other Generation
-    - Applications
-- Conference List
-- Other Resources
+- [Paper List](#paper-list)
+    - [Surveys](#surveys)
+    - [Social Impact of Biases](#social-impact-of-biases)
+    - [Data, Models, & Metrics](#data-models--metrics)
+    - [Word Representations](#word-representations)
+    - [Natural Language Understanding](#natural-language-understanding)
+    - [Natural Language Generation](#natural-language-generation)
+        - [Machine Translation](#machine-translation)
+        - [Dialogue Generation](#dialogue-generation)
+        - [Other Generation](#other-generation)
+    - [Applications](#applications)
+- [Conference List](#conference-list)
+- [Other Resources](#others)
 
 
 ### Paper List
