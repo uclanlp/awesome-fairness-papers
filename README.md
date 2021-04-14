@@ -70,7 +70,8 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/abs/2004.09456), Nadeem, Moin and Bethke, Anna and Reddy, Siva, 2020
 2. [Investigating Sports Commentator Bias within a Large Corpus of {A}merican Football Broadcasts](https://www.aclweb.org/anthology/D19-1666), Merullo, Jack  and Yeh, Luke  and Handler, Abram  and Grissom II, Alvin  and O{'}Connor, Brendan  and Iyyer, Mohit, 2019
 3. [Artie Bias Corpus: An Open Dataset for Detecting Demographic Bias in Speech Applications](https://www.aclweb.org/anthology/2020.lrec-1.796), Meyer, Josh  and Rauchenstein, Lindy  and Eisenberg, Joshua D.  and Howell, Nicholas, 2020
-
+4. [RtGender: A Corpus for Studying Differential Responses to Gender](https://nlp.stanford.edu/robvoigt/rtgender/rtgender.pdf), Voigt, Rob and Jurgens, David and Prabhakaran, Vinodkumar and Jurafsky, Dan and Tsvetkov, Yulia, 2018
+5. [Multi-Dimensional Gender Bias Classification](https://www.aclweb.org/anthology/2020.emnlp-main.23), Dinan, Emily  and Fan, Angela  and Wu, Ledell  and Weston, Jason  and Kiela, Douwe  and Williams, Adina, 2020
 
 #### Word/Sentence Representations
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam, 2016 [[github]](https://github.com/tolga-b/debiaswe)
@@ -78,6 +79,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [Attenuating Biases in Word Vectors](http://proceedings.mlr.press/v89/dev19a.html), Dev, Sunipa and Phillips, Jeff M, 2019
 1. [Gender Bias in Contextualized Word Embeddings](https://www.aclweb.org/anthology/N19-1064), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Cotterell, Ryan  and Ordonez, Vicente  and Chang, Kai-Wei, 2019
 1. [Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings](https://www.aclweb.org/anthology/N19-1062), Manzini, Thomas  and Yao Chong, Lim  and Black, Alan W  and Tsvetkov, Yulia, 2019
+2. [Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](https://www.aclweb.org/anthology/2020.acl-main.260), Zhao, Jieyu  and Mukherjee, Subhabrata  and Hosseini, Saghar  and Chang, Kai-Wei  and Hassan Awadallah, Ahmed, 2020
 1. [Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings](https://www.aclweb.org/anthology/2020.tacl-1.32), Kumar, Vaibhav  and Bhotia, Tenzin Singhay  and Kumar, Vaibhav  and Chakraborty, Tanmoy, 2020
 1. [Measuring Bias in Contextualized Word Representations](https://www.aclweb.org/anthology/W19-3823), Kurita, Keita  and Vyas, Nidhi  and Pareek, Ayush  and Black, Alan W and Tsvetkov, Yulia, 2019
 1. [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender Bias](https://www.aclweb.org/anthology/2020.gebnlp-1.1), Bartl, Marion  and Nissim, Malvina  and Gatt, Albert, 2020
@@ -95,10 +97,24 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [Towards Debiasing Sentence Representations](https://www.aclweb.org/anthology/2020.acl-main.488), Liang, Paul Pu  and Li, Irene Mengze  and Zheng, Emily  and Lim, Yao Chong  and Salakhutdinov, Ruslan  and Morency, Louis-Philippe, 2020
 2. [On Measuring Social Biases in Sentence Encoders](https://www.aclweb.org/anthology/N19-1063), May, Chandler  and Wang, Alex  and Bordia, Shikha  and Bowman, Samuel R.  and Rudinger, Rachel, 2019
 3. [Fair Is Better than Sensational: Man Is to Doctor as Woman Is to Doctor](https://www.aclweb.org/anthology/2020.cl-2.7), Nissim, Malvina  and van Noord, Rik  and van der Goot, Rob, 2020
+4.  [Gender Bias in Pretrained Swedish Embeddings](https://www.aclweb.org/anthology/W19-6104), Sahlgren, Magnus  and Olsson, Fredrik, 2019
+5. [Is Wikipedia succeeding in reducing gender bias? Assessing changes in gender bias in Wikipedia using word embeddings](https://www.aclweb.org/anthology/2020.nlpcss-1.11), Schmahl, Katja Geertruida  and Viering, Tom Julian  and Makrodimitris, Stavros  and Naseri Jahfari, Arman  and Tax, David  and Loog, Marco, 2020
+4. [The Role of Protected Class Word Lists in Bias Identification of Contextualized Word Representations](https://www.aclweb.org/anthology/W19-3808), Sedoc, Jo{\~a}o  and Ungar, Lyle, 2019
+5. [Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation](https://www.aclweb.org/anthology/2020.findings-emnlp.280), Shin, Seungjae  and Song, Kyungwoo  and Jang, JoonHo  and Kim, Hyemi  and Joo, Weonyoung  and Moon, Il-Chul, 2020
+6. [A Transparent Framework for Evaluating Unintended Demographic Bias in Word Embeddings](https://www.aclweb.org/anthology/P19-1162), Sweeney, Chris  and Najafian, Maryam, 2019
+7. [Can Existing Methods Debias Languages Other than English? First Attempt to Analyze and Mitigate Japanese Word Embeddings](https://www.aclweb.org/anthology/2020.gebnlp-1.5), Takeshita, Masashi  and Katsumata, Yuki  and Rzepka, Rafal  and Araki, Kenji, 2020
+8. [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.emnlp-main.232), Vargas, Francisco  and Cotterell, Ryan, 2020
+9. [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484), Wang, Tianlu  and Lin, Xi Victoria  and Rajani, Nazneen Fatema  and McCann, Bryan  and Ordonez, Vicente  and Xiong, Caiming, 2020
+10. [Robustness and Reliability of Gender Bias Assessment in Word Embeddings: The Role of Base Pairs](https://www.aclweb.org/anthology/2020.aacl-main.76), Zhang, Haiyang  and Sneyd, Alison  and Stevenson, Mark, 2020
+11. [Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change](https://cs.stanford.edu/people/jure/pubs/diachronic-acl16.pdf), Hamilton, William L. and Leskovec, Jure and Jurafsky, Dan, 2016 [[github]](https://nlp.stanford.edu/projects/histwords/)
+12. [Measuring Gender Bias in Word Embeddings across Domains and Discovering New Gender Bias Word Categories](https://www.aclweb.org/anthology/W19-3804), Chaloner, Kaytlin  and Maldonado, Alfredo, 2019
+13. [Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis](https://www.aclweb.org/anthology/W19-3803), Friedman, Scott  and Schmer-Galunder, Sonja  and Chen, Anthony  and Rye, Jeffrey, 2019
 
 
 
 #### Natural Language Understanding
+5. [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://www.aclweb.org/anthology/D17-1323), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Ordonez, Vicente  and Chang, Kai-Wei, 2017
+4. [LOGAN: Local Group Bias Detection by Clustering](https://www.aclweb.org/anthology/2020.emnlp-main.155), Zhao, Jieyu  and Chang, Kai-Wei, 2020
 1. [Reducing Gender Bias in Abusive Language Detection](https://www.aclweb.org/anthology/D18-1302), Park, Ji Ho  and Shin, Jamin  and Fung, Pascale, 2018
 1. [Gender Bias in Coreference Resolution](https://www.aclweb.org/anthology/N18-2002), Rudinger, Rachel  and Naradowsky, Jason  and Leonard, Brian  and Van Durme, Benjamin, 2018
 1. [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://www.aclweb.org/anthology/N18-2003), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Ordonez, Vicente  and Chang, Kai-Wei, 2018
@@ -120,6 +136,22 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [Mitigating Gender Bias Amplification in Distribution by Posterior Regularization](https://www.aclweb.org/anthology/2020.acl-main.264), Jia, Shengyu  and Meng, Tao  and Zhao, Jieyu  and Chang, Kai-Wei, 2020
 1. [Enhancing Bias Detection in Political News Using Pragmatic Presupposition](https://www.aclweb.org/anthology/2020.socialnlp-1.1), Kameswari, Lalitha  and Sravani, Dama  and Mamidi, Radhika, 2020
 1. [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://www.aclweb.org/anthology/S18-2005), Kiritchenko, Svetlana  and Mohammad, Saif, 2018
+2. [Debiasing Embeddings for Reduced Gender Bias in Text Classification](https://www.aclweb.org/anthology/W19-3810), Prost, Flavien  and Thain, Nithum  and Bolukbasi, Tolga, 2019
+3. [Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function](https://www.aclweb.org/anthology/P19-2031), Qian, Yusu  and Muaz, Urwa  and Zhang, Ben  and Hyun, Jae Won, 2019
+4. [Linguistic Models for Analyzing and Detecting Biased Language](https://www.aclweb.org/anthology/P13-1162), Recasens, Marta  and Danescu-Niculescu-Mizil, Cristian  and Jurafsky, Dan, 2013
+5. [What's in a Name? {R}educing Bias in Bios without Access to Protected Attributes](https://www.aclweb.org/anthology/N19-1424), Romanov, Alexey  and De-Arteaga, Maria  and Wallach, Hanna  and Chayes, Jennifer  and Borgs, Christian  and Chouldechova, Alexandra  and Geyik, Sahin  and Kenthapadi, Krishnaram  and Rumshisky, Anna  and Kalai, Adam, 2019
+6. [Social Bias in Elicited Natural Language Inferences](https://www.aclweb.org/anthology/W17-1609), Rudinger, Rachel  and May, Chandler  and Van Durme, Benjamin, 2017
+7. [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163), Sap, Maarten  and Card, Dallas  and Gabriel, Saadia  and Choi, Yejin  and Smith, Noah A., 2019
+8. [Social Bias Frames: Reasoning about Social and Power Implications of Language](https://www.aclweb.org/anthology/2020.acl-main.486), Sap, Maarten  and Gabriel, Saadia  and Qin, Lianhui  and Jurafsky, Dan  and Smith, Noah A.  and Choi, Yejin, 2020
+9. [Do Neural Language Models Overcome Reporting Bias?](https://www.aclweb.org/anthology/2020.coling-main.605), Shwartz, Vered  and Choi, Yejin, 2020
+10. [Context in Informational Bias Detection](https://www.aclweb.org/anthology/2020.coling-main.556), van den Berg, Esther  and Markert, Katja, 2020
+11. [Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets](https://www.aclweb.org/anthology/2020.emnlp-main.199), Ousidhoum, Nedjma  and Song, Yangqiu  and Yeung, Dit-Yan, 2020 
+12. [Detecting and Reducing Bias in a High Stakes Domain](https://www.aclweb.org/anthology/D19-1483), Zhong, Ruiqi  and Chen, Yanda  and Patton, Desmond  and Selous, Charlotte  and McKeown, Kathy, 2019
+13. [Demoting Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/2020.socialnlp-1.2), Xia, Mengzhou  and Field, Anjalie  and Tsvetkov, Yulia, 2020
+14.  [Balanced Datasets Are Not Enough: Estimating and Mitigating Gender Bias in Deep Image Representations](https://arxiv.org/abs/1811.08489), Wang, Tianlu and Zhao, Jieyu and Yatskar, Mark and Chang, Kai-Wei and Ordonez, Vicente, 2019
+15. [Measuring the Effects of Bias in Training Data for Literary Classification](https://www.aclweb.org/anthology/2020.latechclfl-1.9), Bagga, Sunyam  and Piper, Andrew, 2020
+16. [Unsupervised Discovery of Implicit Gender Bias](https://www.aclweb.org/anthology/2020.emnlp-main.44), Field, Anjalie  and Tsvetkov, Yulia, 2020
+
 
 #### Natural Language Generation
 
@@ -172,27 +204,24 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [Viable Threat on News Reading: Generating Biased News Using Natural Language Models](https://www.aclweb.org/anthology/2020.nlpcss-1.7), Gupta, Saurabh  and Nguyen, Hong Huy  and Yamagishi, Junichi  and Echizen, Isao, 2020
 1. [Investigating Societal Biases in a Poetry Composition System](https://www.aclweb.org/anthology/2020.gebnlp-1.9), Sheng, Emily  and Uthus, David, 2020
 2. [PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction](https://www.aclweb.org/anthology/2020.emnlp-main.602), Ma, Xinyao  and Sap, Maarten  and Rashkin, Hannah  and Choi, Yejin, 2020
+3. [De-Biased Court's View Generation with Causality](https://www.aclweb.org/anthology/2020.emnlp-main.56), Wu, Yiquan  and Kuang, Kun  and Zhang, Yating  and Liu, Xiaozhong  and Sun, Changlong  and Xiao, Jun  and Zhuang, Yueting  and Si, Luo  and Wu, Fei, 2020
 
-### Other (need to classify)
+
+### Other 
 1. [Gender bias in neural natural language processing](https://link.springer.com/chapter/10.1007/978-3-030-62077-6_14), Lu, Kaiji and Mardziel, Piotr and Wu, Fangjing and Amancharla, Preetam and Datta, Anupam, 2020
 2. [Equity Beyond Bias in Language Technologies for Education](https://www.aclweb.org/anthology/W19-4446), Mayfield, Elijah  and Madaio, Michael  and Prabhumoye, Shrimai  and Gerritsen, David  and McLaughlin, Brittany  and Dixon-Rom{\'a}n, Ezekiel  and Black, Alan W, 2019
+3. [Shedding (a Thousand Points of) Light on Biased Language](https://www.aclweb.org/anthology/W10-0723), Yano, Tae  and Resnik, Philip  and Smith, Noah A., 2010
 1. [Dialect Diversity in Text Summarization on Twitter](https://arxiv.org/abs/2007.07860), Celis, L Elisa and Keswani, Vijay, 2020
-
-1. [Balanced Datasets Are Not Enough: Estimating and Mitigating Gender Bias in Deep Image Representations](https://arxiv.org/abs/1811.08489), Wang, Tianlu and Zhao, Jieyu and Yatskar, Mark and Chang, Kai-Wei and Ordonez, Vicente, 2019
-1. [Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change](https://cs.stanford.edu/people/jure/pubs/diachronic-acl16.pdf), Hamilton, William L. and Leskovec, Jure and Jurafsky, Dan, 2016 [[github]](https://nlp.stanford.edu/projects/histwords/)
-1. [RtGender: A Corpus for Studying Differential Responses to Gender](https://nlp.stanford.edu/robvoigt/rtgender/rtgender.pdf), Voigt, Rob and Jurgens, David and Prabhakaran, Vinodkumar and Jurafsky, Dan and Tsvetkov, Yulia, 2018
 1. [Identifying and Measuring Annotator Bias Based on Annotators' Demographic Characteristics](https://www.aclweb.org/anthology/2020.alw-1.21), Al Kuwatly, Hala  and Wich, Maximilian  and Groh, Georg, 2020
 1. [Multilingual sentence-level bias detection in Wikipedia](https://www.aclweb.org/anthology/R19-1006), Aleksandrova, Desislava  and Lareau, François and Ménard, Pierre André, 2019
 1. [Automated Essay Scoring in the Presence of Biased Ratings](https://www.aclweb.org/anthology/N18-1021), Amorim, Evelin  and Cançado, Marcia  and Veloso, Adriano, 2018
-1. [Team Kermit-the-frog at SemEval-2019 Task 4: Bias Detection Through Sentiment Analysis and Simple Linguistic Features](https://www.aclweb.org/anthology/S19-2177), Anthonio, Talita  and Kloppenburg, Lennart, 2019
-1. [Measuring the Effects of Bias in Training Data for Literary Classification](https://www.aclweb.org/anthology/2020.latechclfl-1.9), Bagga, Sunyam  and Piper, Andrew, 2020
 1. [Predicting Factuality of Reporting and Bias of News Media Sources](https://www.aclweb.org/anthology/D18-1389), Baly, Ramy  and Karadzhov, Georgi  and Alexandrov, Dimitar  and Glass, James  and Nakov, Preslav, 2018
 1. [We Can Detect Your Bias: Predicting the Political Ideology of News Articles](https://www.aclweb.org/anthology/2020.emnlp-main.404), Baly, Ramy  and Da San Martino, Giovanni  and Glass, James  and Nakov, Preslav, 2020
 1. [The Multilingual Affective Soccer Corpus (MASC): Compiling a biased parallel corpus on soccer reportage in English, German and Dutch](https://www.aclweb.org/anthology/W16-6612), Braun, Nadine  and Goudbeek, Martijn  and Krahmer, Emiel, 2016
 1. [Word-order Biases in Deep-agent Emergent Communication](https://www.aclweb.org/anthology/P19-1509), Chaabouni, Rahma  and Kharitonov, Eugene  and Lazaric, Alessandro  and Dupoux, Emmanuel  and Baroni, Marco, 2019
 1. [Importance sampling for unbiased on-demand evaluation of knowledge base population](https://www.aclweb.org/anthology/D17-1109), Chaganty, Arun  and Paranjape, Ashwin  and Liang, Percy  and Manning, Christopher D., 2017
 1. [The price of debiasing automatic metrics in natural language evalaution](https://www.aclweb.org/anthology/P18-1060), Chaganty, Arun  and Mussmann, Stephen  and Liang, Percy, 2018
-1. [Measuring Gender Bias in Word Embeddings across Domains and Discovering New Gender Bias Word Categories](https://www.aclweb.org/anthology/W19-3804), Chaloner, Kaytlin  and Maldonado, Alfredo, 2019
+
 1. [Bias and Fairness in Natural Language Processing](https://www.aclweb.org/anthology/D19-2004), Chang, Kai-Wei  and Prabhakaran, Vinod  and Ordonez, Vicente, 2019
 1. [Learning to Flip the Bias of News Headlines](https://www.aclweb.org/anthology/W18-6509), Chen, Wei-Fan  and Wachsmuth, Henning  and Al-Khatib, Khalid  and Stein, Benno, 2018
 1. [Analyzing Political Bias and Unfairness in News Articles at Different Levels of Granularity](https://www.aclweb.org/anthology/2020.nlpcss-1.16), Chen, Wei-Fan  and Al Khatib, Khalid  and Wachsmuth, Henning  and Stein, Benno, 2020
@@ -201,122 +230,26 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [Masking Actor Information Leads to Fairer Political Claims Detection](https://www.aclweb.org/anthology/2020.acl-main.404), Dayanik, Erenay  and Padó, Sebastian, 2020
 1. [CLARIN: Towards FAIR and Responsible Data Science Using Language Resources](https://www.aclweb.org/anthology/L18-1515), de Jong, Franciska  and Maegaard, Bente  and De Smedt, Koenraad  and Fišer, Darja  and Van Uytvanck, Dieter, 2018
 1. [Semi-Supervised Topic Modeling for Gender Bias Discovery in English and Swedish](https://www.aclweb.org/anthology/2020.gebnlp-1.8), Devinney, Hannah  and Björklund, Jenny  and Björklund, Henrik, 2020
-1. [Multi-Dimensional Gender Bias Classification](https://www.aclweb.org/anthology/2020.emnlp-main.23), Dinan, Emily  and Fan, Angela  and Wu, Ledell  and Weston, Jason  and Kiela, Douwe  and Williams, Adina, 2020
 1. [Is Your Classifier Actually Biased? Measuring Fairness under Uncertainty with Bernstein Bounds](https://www.aclweb.org/anthology/2020.acl-main.262), Ethayarajh, Kawin, 2020
 1. [Team Peter Brinkmann at SemEval-2019 Task 4: Detecting Biased News Articles Using Convolutional Neural Networks](https://www.aclweb.org/anthology/S19-2180), Färber, Michael  and Qurdina, Agon  and Ahmedi, Lule, 2019
-1. [Unsupervised Discovery of Implicit Gender Bias](https://www.aclweb.org/anthology/2020.emnlp-main.44), Field, Anjalie  and Tsvetkov, Yulia, 2020
 1. [Biases in Predicting the Human Language Model](https://www.aclweb.org/anthology/P14-2002), Fine, Alex B.  and Frank, Austin F.  and Jaeger, T. Florian  and Van Durme, Benjamin, 2014
 1. [Debiasing knowledge graph embeddings](https://www.aclweb.org/anthology/2020.emnlp-main.595), Fisher, Joseph  and Mittal, Arpit  and Palfrey, Dave  and Christodoulopoulos, Christos, 2020
 1. [Analyzing Biases in Human Perception of User Age and Gender from Text](https://www.aclweb.org/anthology/P16-1080), Flekova, Lucie  and Carpenter, Jordan  and Giorgi, Salvatore  and Ungar, Lyle  and Preoţiuc-Pietro, Daniel, 2016
 1. [Reference Bias in Monolingual Machine Translation Evaluation](https://www.aclweb.org/anthology/P16-2013), Fomicheva, Marina  and Specia, Lucia, 2016
-1. [Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis](https://www.aclweb.org/anthology/W19-3803), Friedman, Scott  and Schmer-Galunder, Sonja  and Chen, Anthony  and Rye, Jeffrey, 2019
 1. [Analyzing Gender Bias within Narrative Tropes](https://www.aclweb.org/anthology/2020.nlpcss-1.23), Gala, Dhruvil  and Khursheed, Mohammad Omar  and Lerner, Hannah  and O'Connor, Brendan  and Iyyer, Mohit, 2020
 1. [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809), Gangula, Rama Rohit Reddy  and Duggenpudi, Suma Reddy  and Mamidi, Radhika, 2019
 2. [Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation](https://www.aclweb.org/anthology/2020.emnlp-main.157), Munro, Robert  and Morrison, Alex (Carmen), 2020
-
-### Other (need to check)
-1. [Fair Embedding Engine: A Library for Analyzing and Mitigating Gender Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5), Kumar, Vaibhav  and Bhotia, Tenzin  and Kumar, Vaibhav, 2020
-
-1. [Measuring Alignment to Authoritarian State Media as Framing Bias](https://www.aclweb.org/anthology/2020.nlp4if-1.2), Niven, Timothy  and Kao, Hung-Yu, 2020
-1. [Bias in {AI}-systems: A multi-step approach](https://www.aclweb.org/anthology/2020.nl4xai-1.2), Ntoutsi, Eirini, 2020
-1. [Modeling Personal Biases in Language Use by Inducing Personalized Word Embeddings](https://www.aclweb.org/anthology/N19-1215), Oba, Daisuke  and Yoshinaga, Naoki  and Sato, Shoetsu  and Akasaki, Satoshi  and Toyoda, Masashi, 2019
-1. [Remarks on epistemically biased questions](https://www.aclweb.org/anthology/Y17-1025), Oshima, David Yoshikazu, 2017
-1. [fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://www.aclweb.org/anthology/N19-4009), Ott, Myle  and Edunov, Sergey  and Baevski, Alexei  and Fan, Angela  and Gross, Sam  and Ng, Nathan  and Grangier, David  and Auli, Michael, 2019
-1. [Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets](https://www.aclweb.org/anthology/2020.emnlp-main.199), Ousidhoum, Nedjma  and Song, Yangqiu  and Yeung, Dit-Yan, 2020
-1. [Towards the Necessity for Debiasing Natural Language Inference Datasets](https://www.aclweb.org/anthology/2020.lrec-1.850), Paul Panenghat, Mithun  and Suntwal, Sandeep  and Rafique, Faiz  and Sharp, Rebecca  and Surdeanu, Mihai, 2020
-1. [Cueing the Virtual Storyteller: Analysis of cue phrase usage in fairy tales](https://www.aclweb.org/anthology/W07-2326), Penning, Manon  and Theune, Mari{\"e}t, 2007
-1. [Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings](https://www.aclweb.org/anthology/P19-1168), Piratla, Vihari  and Sarawagi, Sunita  and Chakrabarti, Soumen, 2019
-1. [Addressing the {MFS} Bias in {WSD} systems](https://www.aclweb.org/anthology/L16-1268), Postma, Marten  and Izquierdo, Ruben  and Agirre, Eneko  and Rigau, German  and Vossen, Piek, 2016
-1. [Tracking Bias in News Sources Using Social Media: the Russia-{U}kraine Maidan Crisis of 2013{--}2014](https://www.aclweb.org/anthology/W17-4203), Potash, Peter  and Romanov, Alexey  and Gronas, Mikhail  and Rumshisky, Anna  and Gronas, Mikhail, 2017
-1. [Sampling Bias in Deep Active Classification: An Empirical Study](https://www.aclweb.org/anthology/D19-1417), Prabhu, Ameya  and Dognin, Charles  and Singh, Maneesh, 2019
-1. [Debiasing Embeddings for Reduced Gender Bias in Text Classification](https://www.aclweb.org/anthology/W19-3810), Prost, Flavien  and Thain, Nithum  and Bolukbasi, Tolga, 2019
-1. [A Comparative Study of {E}nglish-{C}hinese Translations of Court Texts by Machine and Human Translators and the {W}ord2{V}ec Based Similarity Measure{'}s Ability To Gauge Human Evaluation Biases](https://www.aclweb.org/anthology/W19-6714), Qian, Ming  and Liu, Jessie  and Li, Chaofeng  and Pals, Liming, 2019
-1. [Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function](https://www.aclweb.org/anthology/P19-2031), Qian, Yusu  and Muaz, Urwa  and Zhang, Ben  and Hyun, Jae Won, 2019
-1. ["A Little Birdie Told Me ... " - Inductive Biases for Rumour Stance Detection on Social Media](https://www.aclweb.org/anthology/2020.wnut-1.31), Radhakrishnan, Karthik  and Kanakagiri, Tushar  and Chakravarthy, Sharanya  and Balachandran, Vidhisha, 2020
-1. [Crowd Prefers the Middle Path: A New {IAA} Metric for Crowdsourcing Reveals Turker Biases in Query Segmentation](https://www.aclweb.org/anthology/P13-1168), Ramanath, Rohan  and Choudhury, Monojit  and Bali, Kalika  and Saha Roy, Rishiraj, 2013
-1. [Studying the Inductive Biases of {RNN}s with Synthetic Variations of Natural Languages](https://www.aclweb.org/anthology/N19-1356), Ravfogel, Shauli  and Goldberg, Yoav  and Linzen, Tal, 2019
-1. [Investigating Sampling Bias in Abusive Language Detection](https://www.aclweb.org/anthology/2020.alw-1.9), Razo, Dante  and K{\"u}bler, Sandra, 2020
-1. [Linguistic Models for Analyzing and Detecting Biased Language](https://www.aclweb.org/anthology/P13-1162), Recasens, Marta  and Danescu-Niculescu-Mizil, Cristian  and Jurafsky, Dan, 2013
-1. [Toward Natural Language Mitigation Strategies for Cognitive Biases in Recommender Systems](https://www.aclweb.org/anthology/2020.nl4xai-1.11), Rieger, Alisa  and Theune, Mari{\"e}t  and Tintarev, Nava, 2020
-1. [Quantifying 60 Years of Gender Bias in Biomedical Research with Word Embeddings](https://www.aclweb.org/anthology/2020.bionlp-1.1), Rios, Anthony  and Joshi, Reenam  and Shin, Hejin, 2020
-1. [What{'}s in a Name? {R}educing Bias in Bios without Access to Protected Attributes](https://www.aclweb.org/anthology/N19-1424), Romanov, Alexey  and De-Arteaga, Maria  and Wallach, Hanna  and Chayes, Jennifer  and Borgs, Christian  and Chouldechova, Alexandra  and Geyik, Sahin  and Kenthapadi, Krishnaram  and Rumshisky, Anna  and Kalai, Adam, 2019
-1. [Social Bias in Elicited Natural Language Inferences](https://www.aclweb.org/anthology/W17-1609), Rudinger, Rachel  and May, Chandler  and Van Durme, Benjamin, 2017
-1. [Gender Bias in Pretrained {S}wedish Embeddings](https://www.aclweb.org/anthology/W19-6104), Sahlgren, Magnus  and Olsson, Fredrik, 2019
-1. [{GL{\`A}FF}, a Large Versatile {F}rench Lexicon ({GL{\`A}FF}, un Gros Lexique {{\`A}} tout Faire du Fran{\c{c}}ais) [in {F}rench]](https://www.aclweb.org/anthology/F13-1021), Sajous, Franck  and Hathout, Nabil  and Calderone, Basilio, 2013
-1. [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163), Sap, Maarten  and Card, Dallas  and Gabriel, Saadia  and Choi, Yejin  and Smith, Noah A., 2019
-1. [Social Bias Frames: Reasoning about Social and Power Implications of Language](https://www.aclweb.org/anthology/2020.acl-main.486), Sap, Maarten  and Gabriel, Saadia  and Qin, Lianhui  and Jurafsky, Dan  and Smith, Noah A.  and Choi, Yejin, 2020
-1. [Question Answering as Question-Biased Term Extraction: A New Approach toward Multilingual {QA}](https://www.aclweb.org/anthology/P05-1027), Sasaki, Yutaka, 2005
-1. [Addressing Exposure Bias With Document Minimum Risk Training: {C}ambridge at the {WMT}20 Biomedical Translation Task](https://www.aclweb.org/anthology/2020.wmt-1.94), Saunders, Danielle  and Byrne, Bill, 2020
-1. [On Bias-free Crawling and Representative Web Corpora](https://www.aclweb.org/anthology/W16-2612), Sch{\"a}fer, Roland, 2016
-1. [Is {W}ikipedia succeeding in reducing gender bias? Assessing changes in gender bias in {W}ikipedia using word embeddings](https://www.aclweb.org/anthology/2020.nlpcss-1.11), Schmahl, Katja Geertruida  and Viering, Tom Julian  and Makrodimitris, Stavros  and Naseri Jahfari, Arman  and Tax, David  and Loog, Marco, 2020
-1. [Generalization in Generation: A closer look at Exposure Bias](https://www.aclweb.org/anthology/D19-5616), Schmidt, Florian, 2019
-1. ["This is a Problem, Don't You Agree?" Framing and Bias in Human Evaluation for Natural Language Generation](https://www.aclweb.org/anthology/2020.evalnlgeval-1.2), Schoch, Stephanie  and Yang, Diyi  and Ji, Yangfeng, 2020
-1. [Towards Debiasing Fact Verification Models](https://www.aclweb.org/anthology/D19-1341), Schuster, Tal  and Shah, Darsh  and Yeo, Yun Jie Serene  and Roberto Filizzola Ortiz, Daniel  and Santus, Enrico  and Barzilay, Regina, 2019
-1. [The Role of Protected Class Word Lists in Bias Identification of Contextualized Word Representations](https://www.aclweb.org/anthology/W19-3808), Sedoc, Jo{\~a}o  and Ungar, Lyle, 2019
-1. [Detecting and understanding moral biases in news](https://www.aclweb.org/anthology/2020.nuse-1.15), Shahid, Usman  and Di Eugenio, Barbara  and Rojecki, Andrew  and Zheleva, Elena, 2020
-1. [Tackling the Story Ending Biases in The Story Cloze Test](https://www.aclweb.org/anthology/P18-2119), Sharma, Rishi  and Allen, James  and Bakhshandeh, Omid  and Mostafazadeh, Nasrin, 2018
-1. [A Two-Stage Approach for Generating Unbiased Estimates of Text Complexity](https://www.aclweb.org/anthology/W13-1506), Sheehan, Kathleen M.  and Flor, Michael  and Napolitano, Diane, 2013
-1. [Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation](https://www.aclweb.org/anthology/2020.findings-emnlp.280), Shin, Seungjae  and Song, Kyungwoo  and Jang, JoonHo  and Kim, Hyemi  and Joo, Weonyoung  and Moon, Il-Chul, 2020
-1. [Do Neural Language Models Overcome Reporting Bias?](https://www.aclweb.org/anthology/2020.coling-main.605), Shwartz, Vered  and Choi, Yejin, 2020
-1. [{BERT} is Not an Interlingua and the Bias of Tokenization](https://www.aclweb.org/anthology/D19-6106), Singh, Jasdeep  and McCann, Bryan  and Socher, Richard  and Xiong, Caiming, 2019
-1. [Annealing Structural Bias in Multilingual Weighted Grammar Induction](https://www.aclweb.org/anthology/P06-1072), Smith, Noah A.  and Eisner, Jason, 2006
-1. [Selection Bias, Label Bias, and Bias in Ground Truth](https://www.aclweb.org/anthology/C14-3005), S{\o}gaard, Anders  and Plank, Barbara  and Hovy, Dirk, 2014
-1. [Length bias in Encoder Decoder Models and a Case for Global Conditioning](https://www.aclweb.org/anthology/D16-1158), Sountsov, Pavel  and Sarawagi, Sunita, 2016
-1. [Argument from Old Man{'}s View: Assessing Social Bias in Argumentation](https://www.aclweb.org/anthology/2020.argmining-1.9), Splieth{\"o}ver, Maximilian  and Wachsmuth, Henning, 2020
-1. [Symbolisme phon{\'e}tique du genre dans les pr{\'e}noms fran{\c{c}}ais (Sex-biased sound symbolism in {F}rench first names)](https://www.aclweb.org/anthology/2020.jeptalnrecital-jep.66), Suire, Alexandre  and Bossoms Mesa, Alba  and Raymond, Michel  and Barkat-Defradas, Melissa, 2020
-1. [A Transparent Framework for Evaluating Unintended Demographic Bias in Word Embeddings](https://www.aclweb.org/anthology/P19-1162), Sweeney, Chris  and Najafian, Maryam, 2019
-1. [Can Existing Methods Debias Languages Other than {E}nglish? First Attempt to Analyze and Mitigate {J}apanese Word Embeddings](https://www.aclweb.org/anthology/2020.gebnlp-1.5), Takeshita, Masashi  and Katsumata, Yuki  and Rzepka, Rafal  and Araki, Kenji, 2020
-1. [Gender and Dialect Bias in {Y}ou{T}ube{'}s Automatic Captions](https://www.aclweb.org/anthology/W17-1606), Tatman, Rachael, 2017
-1. ["Oh, I've Heard That Before": Modelling Own-Dialect Bias After Perceptual Learning by Weighting Training Data](https://www.aclweb.org/anthology/W17-0704), Tatman, Rachael, 2017
-1. [Not All Reviews Are Equal: Towards Addressing Reviewer Biases for Opinion Summarization](https://www.aclweb.org/anthology/P19-2005), Tay, Wenyi, 2019
-1. [Analyzing Gender Bias in Student Evaluations](https://www.aclweb.org/anthology/C16-1083), Terkik, Andamlak  and Prud{'}hommeaux, Emily  and Ovesdotter Alm, Cecilia  and Homan, Christopher  and Franklin, Scott, 2016
-1. [Authorless Topic Models: Biasing Models Away from Known Structure](https://www.aclweb.org/anthology/C18-1329), Thompson, Laure  and Mimno, David, 2018
-1. [Named Entity Recognition with Stack Residual {LSTM} and Trainable Bias Decoding](https://www.aclweb.org/anthology/I17-1057), Tran, Quan  and MacKinlay, Andrew  and Jimeno Yepes, Antonio, 2017
-1. [Performance Impact Caused by Hidden Bias of Training Data for Recognizing Textual Entailment](https://www.aclweb.org/anthology/L18-1239), Tsuchiya, Masatoshi, 2018
-1. [Combining the Sparsity and Unambiguity Biases for Grammar Induction](https://www.aclweb.org/anthology/W12-1915), Tu, Kewei, 2012
-1. [Fair Evaluation in Concept Normalization: a Large-scale Comparative Analysis for {BERT}-based Models](https://www.aclweb.org/anthology/2020.coling-main.588), Tutubalina, Elena  and Kadurin, Artur  and Miftahutdinov, Zulfat, 2020
-1. [Mind the Trade-off: Debiasing {NLU} Models without Degrading the In-distribution Performance](https://www.aclweb.org/anthology/2020.acl-main.770), Utama, Prasetya Ajie  and Moosavi, Nafise Sadat  and Gurevych, Iryna, 2020
-1. [Towards Debiasing {NLU} Models from Unknown Biases](https://www.aclweb.org/anthology/2020.emnlp-main.613), Utama, Prasetya Ajie  and Moosavi, Nafise Sadat  and Gurevych, Iryna, 2020
-1. [Context in Informational Bias Detection](https://www.aclweb.org/anthology/2020.coling-main.556), van den Berg, Esther  and Markert, Katja, 2020
-1. [{SLR} Validation: Present State of Affairs and Prospects](http://www.lrec-conf.org/proceedings/lrec2000/pdf/39.pdf), van den Heuvel, Henk  and Boves, Lou  and Choukri, Khalid  and Goddijn, Simo  and Sanders, Eric, 2000
-1. [Lower Bias, Higher Density Abusive Language Datasets: A Recipe](https://www.aclweb.org/anthology/2020.restup-1.4), van Rosendaal, Juliet  and Caselli, Tommaso  and Nissim, Malvina, 2020
-1. [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.emnlp-main.232), Vargas, Francisco  and Cotterell, Ryan, 2020
-1. [Emotional Perception of Fairy Tales: Achieving Agreement in Emotion Annotation of Text](https://www.aclweb.org/anthology/W10-0212), Volkova, Ekaterina P.  and Mohler, Betty  and Meurers, Detmar  and Gerdemann, Dale  and B{\"u}lthoff, Heinrich H., 2010
-1. [Multimodal Review Generation with Privacy and Fairness Awareness](https://www.aclweb.org/anthology/2020.coling-main.37), Vu, Xuan-Son  and Nguyen, Thanh-Son  and Le, Duc-Trong  and Jiang, Lili, 2020
-1. [In-Browser Summarisation: Generating Elaborative Summaries Biased Towards the Reading Context](https://www.aclweb.org/anthology/P08-2033), Wan, Stephen  and Paris, C{\'e}cile, 2008
-1. [Group Linguistic Bias Aware Neural Response Generation](https://www.aclweb.org/anthology/W17-6001), Wang, Jianan  and Wang, Xin  and Li, Fang  and Xu, Zhen  and Wang, Zhuoran  and Wang, Baoxun, 2017
-1. [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484), Wang, Tianlu  and Lin, Xi Victoria  and Rajani, Nazneen Fatema  and McCann, Bryan  and Ordonez, Vicente  and Xiong, Caiming, 2020
-1. [Fairseq {S}2{T}: Fast Speech-to-Text Modeling with Fairseq](https://www.aclweb.org/anthology/2020.aacl-demo.6), Wang, Changhan  and Tang, Yun  and Ma, Xutai  and Wu, Anne  and Okhonko, Dmytro  and Pino, Juan, 2020
-1. [On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.326), Wang, Chaojun  and Sennrich, Rico, 2020
-1. [On Lexically Biased Discourse Organization in Text Generation](https://www.aclweb.org/anthology/C94-1060), Wanner, Leo, 1994
-1. [Gendered Ambiguous Pronoun ({GAP}) Shared Task at the Gender Bias in {NLP} Workshop 2019](https://www.aclweb.org/anthology/W19-3801), Webster, Kellie  and Costa-juss{\`a}, Marta R.  and Hardmeier, Christian  and Radford, Will, 2019
-1. [Using Word Embeddings to Examine Gender Bias in {D}utch Newspapers, 1950-1990](https://www.aclweb.org/anthology/W19-4712), Wevers, Melvin, 2019
-1. [Impact of Politically Biased Data on Hate Speech Classification](https://www.aclweb.org/anthology/2020.alw-1.7), Wich, Maximilian  and Bauer, Jan  and Groh, Georg, 2020
-1. [Investigating Annotator Bias with a Graph-Based Approach](https://www.aclweb.org/anthology/2020.alw-1.22), Wich, Maximilian  and Al Kuwatly, Hala  and Groh, Georg, 2020
-1. [Finding Good Enough: A Task-Based Evaluation of Query Biased Summarization for Cross-Language Information Retrieval](https://www.aclweb.org/anthology/D14-1073), Williams, Jennifer  and Tam, Sharon  and Shen, Wade, 2014
-1. [Proceedings of the First Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/W19-3800), Costa-juss{\`a}, Marta R.  and Hardmeier, Christian  and Radford, Will  and Webster, Kellie, 2019
-1. [An Evaluation on Query-biased Summarisation for the Question Answering Task](https://www.aclweb.org/anthology/U04-1005), Wu, Mingfang  and Wilkinson, Ross  and Paris, Cecile, 2004
-1. [De-Biased Court{'}s View Generation with Causality](https://www.aclweb.org/anthology/2020.emnlp-main.56), Wu, Yiquan  and Kuang, Kun  and Zhang, Yating  and Liu, Xiaozhong  and Sun, Changlong  and Xiao, Jun  and Zhuang, Yueting  and Si, Luo  and Wu, Fei, 2020
-1. [Improving {QA} Generalization by Concurrent Modeling of Multiple Biases](https://www.aclweb.org/anthology/2020.findings-emnlp.74), Wu, Mingzhu  and Moosavi, Nafise Sadat  and R{\"u}ckl{\'e}, Andreas  and Gurevych, Iryna, 2020
-1. [Demoting Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/2020.socialnlp-1.2), Xia, Mengzhou  and Field, Anjalie  and Tsvetkov, Yulia, 2020
-1. [Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing](https://www.aclweb.org/anthology/N19-1084), Xiong, Wenhan  and Wu, Jiawei  and Lei, Deren  and Yu, Mo  and Chang, Shiyu  and Guo, Xiaoxiao  and Wang, William Yang, 2019
-1. [Unbiasing Review Ratings with Tendency Based Collaborative Filtering](https://www.aclweb.org/anthology/2020.aacl-srw.8), Yadav, Pranshi  and Yadav, Priya  and Nokhiz, Pegah  and Gupta, Vivek, 2020
-1. [Shedding (a Thousand Points of) Light on Biased Language](https://www.aclweb.org/anthology/W10-0723), Yano, Tae  and Resnik, Philip  and Smith, Noah A., 2010
-1. [Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets](https://www.aclweb.org/anthology/P19-1435), Zhang, Guanhua  and Bai, Bing  and Liang, Jian  and Bai, Kun  and Chang, Shiyu  and Yu, Mo  and Zhu, Conghui  and Zhao, Tiejun, 2019
-1. [Minimize Exposure Bias of {S}eq2{S}eq Models in Joint Entity and Relation Extraction](https://www.aclweb.org/anthology/2020.findings-emnlp.23), Zhang, Ranran Haoran  and Liu, Qianying  and Fan, Aysa Xuemo  and Ji, Heng  and Zeng, Daojian  and Cheng, Fei  and Kawahara, Daisuke  and Kurohashi, Sadao, 2020
-1. [Robustness and Reliability of Gender Bias Assessment in Word Embeddings: The Role of Base Pairs](https://www.aclweb.org/anthology/2020.aacl-main.76), Zhang, Haiyang  and Sneyd, Alison  and Stevenson, Mark, 2020
-1. [{LOGAN}: Local Group Bias Detection by Clustering](https://www.aclweb.org/anthology/2020.emnlp-main.155), Zhao, Jieyu  and Chang, Kai-Wei, 2020
-1. [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://www.aclweb.org/anthology/D17-1323), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Ordonez, Vicente  and Chang, Kai-Wei, 2017
-1. [Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](https://www.aclweb.org/anthology/2020.acl-main.260), Zhao, Jieyu  and Mukherjee, Subhabrata  and Hosseini, Saghar  and Chang, Kai-Wei  and Hassan Awadallah, Ahmed, 2020
-1. [A Closer Look at Data Bias in Neural Extractive Summarization Models](https://www.aclweb.org/anthology/D19-5410), Zhong, Ming  and Wang, Danqing  and Liu, Pengfei  and Qiu, Xipeng  and Huang, Xuanjing, 2019
-1. [Detecting and Reducing Bias in a High Stakes Domain](https://www.aclweb.org/anthology/D19-1483), Zhong, Ruiqi  and Chen, Yanda  and Patton, Desmond  and Selous, Charlotte  and McKeown, Kathy, 2019
-1. [Towards Robustifying {NLI} Models Against Lexical Dataset Biases](https://www.aclweb.org/anthology/2020.acl-main.773), Zhou, Xiang  and Bansal, Mohit, 2020
-1. [Reducing Unintended Identity Bias in {R}ussian Hate Speech Detection](https://www.aclweb.org/anthology/2020.alw-1.8), Zueva, Nadezhda  and Kabirova, Madina  and Kalaidin, Pavel, 2020
+3. [Modeling Personal Biases in Language Use by Inducing Personalized Word Embeddings](https://www.aclweb.org/anthology/N19-1215), Oba, Daisuke  and Yoshinaga, Naoki  and Sato, Shoetsu  and Akasaki, Satoshi  and Toyoda, Masashi, 2019
+4. [Quantifying 60 Years of Gender Bias in Biomedical Research with Word Embeddings](https://www.aclweb.org/anthology/2020.bionlp-1.1), Rios, Anthony  and Joshi, Reenam  and Shin, Hejin, 2020
+5. [Analyzing Gender Bias in Student Evaluations](https://www.aclweb.org/anthology/C16-1083), Terkik, Andamlak  and Prud{'}hommeaux, Emily  and Ovesdotter Alm, Cecilia  and Homan, Christopher  and Franklin, Scott, 2016
 
 
-### Conference List
+### Conference/Workshop List
 - [ACM FAT conference](https://fatconference.org/)
-
+- [Gendered Ambiguous Pronoun (GAP) Shared Task at the Gender Bias in NLP Workshop 2019](https://www.aclweb.org/anthology/W19-3801), Webster, Kellie  and Costa-jussa, Marta R.  and Hardmeier, Christian  and Radford, Will, 2019
+- [Workshop on Online Abuse and Harms]
+- [Proceedings of the First Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/W19-3800), Costa-juss{\`a}, Marta R.  and Hardmeier, Christian  and Radford, Will  and Webster, Kellie, 2019
+- [Team Kermit-the-frog at SemEval-2019 Task 4: Bias Detection Through Sentiment Analysis and Simple Linguistic Features](https://www.aclweb.org/anthology/S19-2177), Anthonio, Talita  and Kloppenburg, Lennart, 2019
 
 ### Others
 - [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP), ACL Wiki
