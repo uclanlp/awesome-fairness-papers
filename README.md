@@ -1,5 +1,5 @@
 # awesome-fairness-papers
-Papers about fairness in NLP/CV/ML
+Papers about fairness in NLP
 
 ## Background
 Fairness, accountability, transparency, and ethics are becoming more and more important in machine learning communities. We hope to provide a list of great papers that can serve as a reference for researchers interested in such topics. This repo mainly focuses on NLP, but we also point to some other resources at the end.
@@ -9,7 +9,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 </p>
 <p align='center'>credit to <a href="https://godatadriven.com/blog/towards-fairness-in-ml-with-adversarial-networks/">Stijn Tonk</a></p> -->
 
-**If you have any suggestions, please feel free to edit or submit a pull request. Your contribution means a lot to us!**
+**We are not able to cover all the papers in the list. But if you have any suggestions or want to add some relevant papers, please feel free to edit or submit a pull request. Your contribution means a lot to us!**
 
 
 ## Contents
