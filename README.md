@@ -2,7 +2,7 @@
 Papers about fairness in NLP
 
 ## Background
-Fairness, accountability, transparency, and ethics are becoming more and more important in machine learning communities. We hope to provide a list of great papers that can serve as a reference for researchers interested in such topics. This repo mainly focuses on NLP, but we also point to some other resources at the end.
+Fairness, accountability, transparency, and ethics are becoming more and more important in machine learning communities. We hope to provide a list of great papers that can serve as a reference for researchers interested in such topics. This repo mainly focuses on papers from ACL anthology, but we also point to some other resources at the end.
 
 <!-- <p align='center'>
 <a href="https://godatadriven.com/blog/towards-fairness-in-ml-with-adversarial-networks/"><figure><img src="fairness_plot.svg", align="center"></figure></a>
@@ -38,6 +38,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [A survey on bias and fairness in machine learning](https://arxiv.org/abs/1908.09635), Mehrabi, Ninareh and Morstatter, Fred and Saxena, Nripsuta and Lerman, Kristina and Galstyan, Aram, 2019
 1. [50 years of test (Un)fairness: Lessons for machine learning](https://dl.acm.org/doi/abs/10.1145/3287560.3287600), Hutchinson, Ben and Mitchell, Margaret, 2019
 1. [Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective](https://arxiv.org/abs/2012.12305), Kiritchenko, Svetlana and Nejadgholi, Isar and Fraser, Kathleen C, 2020
+2. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922), Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021.
 
 #### Social Impact of Biases
 1. [The Social Impact of Natural Language Processing](https://www.aclweb.org/anthology/P16-2096), Hovy, Dirk and Spruit, Shannon L., 2016
