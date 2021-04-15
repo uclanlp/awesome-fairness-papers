@@ -25,7 +25,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
         - [Other Generation](#other-generation)
     - [Other](#others)
 - [Tutorial List](#tutorial-list)
-    -[Jupyter/Colab List](#jupyter/colab-list)
+    - [Jupyter/Colab List](#jupyter/colab-list)
 - [Conference/Workshop List](#conference/workshop-list)
 
 
