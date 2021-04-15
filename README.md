@@ -207,7 +207,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 3. [De-Biased Court's View Generation with Causality](https://www.aclweb.org/anthology/2020.emnlp-main.56), Wu, Yiquan  and Kuang, Kun  and Zhang, Yating  and Liu, Xiaozhong  and Sun, Changlong  and Xiao, Jun  and Zhuang, Yueting  and Si, Luo  and Wu, Fei, 2020
 
 
-### Other 
+### Other Papers
 1. [Gender bias in neural natural language processing](https://link.springer.com/chapter/10.1007/978-3-030-62077-6_14), Lu, Kaiji and Mardziel, Piotr and Wu, Fangjing and Amancharla, Preetam and Datta, Anupam, 2020
 2. [Equity Beyond Bias in Language Technologies for Education](https://www.aclweb.org/anthology/W19-4446), Mayfield, Elijah  and Madaio, Michael  and Prabhumoye, Shrimai  and Gerritsen, David  and McLaughlin, Brittany  and Dixon-Rom{\'a}n, Ezekiel  and Black, Alan W, 2019
 3. [Shedding (a Thousand Points of) Light on Biased Language](https://www.aclweb.org/anthology/W10-0723), Yano, Tae  and Resnik, Philip  and Smith, Noah A., 2010
@@ -243,14 +243,23 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 4. [Quantifying 60 Years of Gender Bias in Biomedical Research with Word Embeddings](https://www.aclweb.org/anthology/2020.bionlp-1.1), Rios, Anthony  and Joshi, Reenam  and Shin, Hejin, 2020
 5. [Analyzing Gender Bias in Student Evaluations](https://www.aclweb.org/anthology/C16-1083), Terkik, Andamlak  and Prud{'}hommeaux, Emily  and Ovesdotter Alm, Cecilia  and Homan, Christopher  and Franklin, Scott, 2016
 
+### Tutorial List
+- [Fairness in Machine Learning](https://nips.cc/Conferences/2017/Schedule?showEvent=8734), NeurIPS 2017
+- [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk), NeurIPS 2017
+- [Socially Responsible NLP](https://www.aclweb.org/anthology/N18-6005/), NAACL 2018
+- [Tutorial: Bias and Fairness in Natural Language Processing](http://web.cs.ucla.edu/~kwchang/talks/emnlp19-fairnlp/), EMNLP 2019
+- [Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned](https://sites.google.com/view/kdd19-fairness-tutorial), KDD 2019
+- [Dealing with Bias and Fairness in Building Data Science/ML/AI Systems](https://dssg.github.io/fairness_tutorial/), KDD 2020
+
+#### Jupter/Colab tutorial
+- [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://github.com/uclanlp/reducingbias/blob/master/src/fairCRF_gender_ratio.ipynb)
+- [Mitigating Gender Bias Ampliﬁcation in Distribution by Posterior Regularization](https://colab.research.google.com/drive/1jBhnzxaaHMY1jbPPa1OqT8-6QxZA_T7p?authuser=2#scrollTo=YpNJrP3uBMd3)
 
 ### Conference/Workshop List
+- [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP), ACL Wiki
 - [ACM FAT conference](https://fatconference.org/)
 - [Gendered Ambiguous Pronoun (GAP) Shared Task at the Gender Bias in NLP Workshop 2019](https://www.aclweb.org/anthology/W19-3801), Webster, Kellie  and Costa-jussa, Marta R.  and Hardmeier, Christian  and Radford, Will, 2019
 - [Workshop on Online Abuse and Harms]
 - [Proceedings of the First Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/W19-3800), Costa-juss{\`a}, Marta R.  and Hardmeier, Christian  and Radford, Will  and Webster, Kellie, 2019
 - [Team Kermit-the-frog at SemEval-2019 Task 4: Bias Detection Through Sentiment Analysis and Simple Linguistic Features](https://www.aclweb.org/anthology/S19-2177), Anthonio, Talita  and Kloppenburg, Lennart, 2019
-
-### Others
-- [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP), ACL Wiki
-- [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/)
+- [Fairness and machine learning](https://fairmlbook.org/index.html)
