@@ -24,7 +24,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
         - [Machine Translation](#machine-translation)
         - [Dialogue Generation](#dialogue-generation)
         - [Other Generation](#other-generation)
-    - [Bias Visualization] (#bias-visualization)
+    - [Bias Visualization](#bias-visualization)
     - [Other](#others)
 - [Tutorial List](#tutorial-list)
     - [Jupyter/Colab List](#jupyter/colab-list)
