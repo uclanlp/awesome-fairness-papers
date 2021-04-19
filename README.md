@@ -18,7 +18,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
     - [Surveys](#surveys)
     - [Social Impact of Biases](#social-impact-of-biases)
     - [Data, Models, & Metrics](#data-models--metrics)
-    - [Word/Sentence Representations](#word/sentence-representations)
+    - [Word/Sentence Representations](#wordsentence-representations)
     - [Natural Language Understanding](#natural-language-understanding)
     - [Natural Language Generation](#natural-language-generation)
         - [Machine Translation](#machine-translation)
@@ -27,8 +27,8 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
     - [Bias Visualization](#bias-visualization)
     - [Other](#others)
 - [Tutorial List](#tutorial-list)
-    - [Jupyter/Colab List](#jupyter/colab-list)
-- [Conference/Workshop List](#conference/workshop-list)
+    - [Jupyter/Colab Tutorial](#jupytercolab-tutorial)
+- [Conference/Workshop List](#conferenceworkshop-list)
 
 
 ### Paper List
@@ -249,7 +249,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 
 5. [Analyzing Gender Bias in Student Evaluations](https://www.aclweb.org/anthology/C16-1083), Terkik, Andamlak  and Prud{'}hommeaux, Emily  and Ovesdotter Alm, Cecilia  and Homan, Christopher  and Franklin, Scott, 2016
 
-#### Tutorial List
+### Tutorial List
 - [Fairness in Machine Learning](https://nips.cc/Conferences/2017/Schedule?showEvent=8734), NeurIPS 2017
 - [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk), NeurIPS 2017
 - [Socially Responsible NLP](https://www.aclweb.org/anthology/N18-6005/), NAACL 2018
@@ -258,11 +258,11 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 - [Dealing with Bias and Fairness in Building Data Science/ML/AI Systems](https://dssg.github.io/fairness_tutorial/), KDD 2020
 - [A Visual Tour of Bias Mitigation Techniques for Word Representations](http://www.sci.utah.edu/~beiwang/aaaibias2021/index.html), AAAI 2021
 
-#### Jupter/Colab tutorial
+#### Jupyter/Colab Tutorial
 - [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://github.com/uclanlp/reducingbias/blob/master/src/fairCRF_gender_ratio.ipynb)
 - [Mitigating Gender Bias Ampliﬁcation in Distribution by Posterior Regularization](https://colab.research.google.com/drive/1jBhnzxaaHMY1jbPPa1OqT8-6QxZA_T7p?authuser=2#scrollTo=YpNJrP3uBMd3)
 
-#### Conference/Workshop List
+### Conference/Workshop List
 - [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP), ACL Wiki
 - [ACM FAccT conference](https://fatconference.org/)
 - [Gendered Ambiguous Pronoun (GAP) Shared Task at the Gender Bias in NLP Workshop 2019](https://www.aclweb.org/anthology/W19-3801), Webster, Kellie  and Costa-jussa, Marta R.  and Hardmeier, Christian  and Radford, Will, 2019
