@@ -1,5 +1,7 @@
-# awesome-fairness-papers
+# awesome-fairness-papers 
 Papers about fairness in NLP
+
+[Jieyu Zhao](https://jyzhao.net/), [Emily Sheng](https://ewsheng.github.io/), [Sunipa Dev](https://sunipa.github.io/), [Yu (Hope) Hou](https://github.com/houyu0930), [Nanyun (Violet) Peng](https://vnpeng.net/), and [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)
 
 ## Background
 Fairness, accountability, transparency, and ethics are becoming more and more important in machine learning communities. We hope to provide a list of great papers that can serve as a reference for researchers interested in such topics. This repo mainly focuses on papers from ACL anthology, but we also point to some other resources at the end.
@@ -9,8 +11,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 </p>
 <p align='center'>credit to <a href="https://godatadriven.com/blog/towards-fairness-in-ml-with-adversarial-networks/">Stijn Tonk</a></p> -->
 
-**We are not able to cover all the papers in the list. But if you have any suggestions or want to add some relevant papers, please feel free to edit or submit a pull request. Your contribution means a lot to us!**
-
+**Disclaimer: We are not able to cover all the papers in the list. But if you have any suggestions or want to add some relevant papers, please feel free to submit a pull request or email us. Your contribution means a lot to us!**
 
 ## Contents
 - [Paper List](#paper-list)
