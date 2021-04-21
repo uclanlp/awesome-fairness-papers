@@ -281,5 +281,6 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 - [ACM FAccT conference](https://fatconference.org/)
 - [Gendered Ambiguous Pronoun (GAP) Shared Task at the Gender Bias in NLP Workshop 2019](https://www.aclweb.org/anthology/W19-3801), Webster, Kellie  and Costa-jussa, Marta R.  and Hardmeier, Christian  and Radford, Will, 2019
 - [Proceedings of the First Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/W19-3800), Costa-juss{\`a}, Marta R.  and Hardmeier, Christian  and Radford, Will  and Webster, Kellie, 2019
+- [Proceedings of the Second Workshop on Gender Bias in Natural Language Proceedings](https://www.aclweb.org/anthology/2020.gebnlp-1.0/), Costa-juss{\`a}, Marta R.  and Hardmeier, Christian  and Radford, Will  and Webster, Kellie, 2020
 - [Team Kermit-the-frog at SemEval-2019 Task 4: Bias Detection Through Sentiment Analysis and Simple Linguistic Features](https://www.aclweb.org/anthology/S19-2177), Anthonio, Talita  and Kloppenburg, Lennart, 2019
 - [Fairness and machine learning](https://fairmlbook.org/index.html)
