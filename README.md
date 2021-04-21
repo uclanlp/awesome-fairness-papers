@@ -20,6 +20,9 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
     - [Data, Models, & Metrics](#data-models--metrics)
     - [Word/Sentence Representations](#wordsentence-representations)
     - [Natural Language Understanding](#natural-language-understanding)
+        - [Bias Amplification](#bias-amplification-issue)
+        - [Bias Detection](#bias-detection)
+        - [Bias Mitigation](#bias-mitigation)
     - [Natural Language Generation](#natural-language-generation)
         - [Machine Translation](#machine-translation)
         - [Dialogue Generation](#dialogue-generation)
@@ -122,10 +125,14 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 
 
 #### Natural Language Understanding
-5. [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://www.aclweb.org/anthology/D17-1323), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Ordonez, Vicente  and Chang, Kai-Wei, 2017
-4. [LOGAN: Local Group Bias Detection by Clustering](https://www.aclweb.org/anthology/2020.emnlp-main.155), Zhao, Jieyu  and Chang, Kai-Wei, 2020
-1. [Reducing Gender Bias in Abusive Language Detection](https://www.aclweb.org/anthology/D18-1302), Park, Ji Ho  and Shin, Jamin  and Fung, Pascale, 2018
-1. [On Measuring and Mitigating Biased Inferences of Word Embeddings](https://arxiv.org/abs/1908.09369), Dev, Sunipa and Li, Tao  and Phillips, Jeff M  and Srikumar, Vivek, 2019
+##### Bias Amplification Issue
+1. [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://www.aclweb.org/anthology/D17-1323), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Ordonez, Vicente  and Chang, Kai-Wei, 2017
+2. [Feature-Wise Bias Amplification](https://arxiv.org/abs/1812.08999), Klas Leino, Emily Black, Matt Fredrikson, Shayak Sen, Anupam Datta. ICLR, 2019.
+1. [Mitigating Gender Bias Amplification in Distribution by Posterior Regularization](https://www.aclweb.org/anthology/2020.acl-main.264), Jia, Shengyu  and Meng, Tao  and Zhao, Jieyu  and Chang, Kai-Wei, 2020
+2. [Fairness Without Demographics in Repeated Loss Minimization](https://arxiv.org/abs/1806.08010), Tatsunori B. Hashimoto, Megha Srivastava, Hongseok Namkoong, Percy Liang, ICLM, 2018
+
+##### Bias Detection
+1. [LOGAN: Local Group Bias Detection by Clustering](https://www.aclweb.org/anthology/2020.emnlp-main.155), Zhao, Jieyu  and Chang, Kai-Wei, 2020
 1. [Examining Gender Bias in Languages with Grammatical Gender](https://www.aclweb.org/anthology/D19-1531), Zhou, Pei  and Shi, Weijia  and Zhao, Jieyu  and Huang, Kuan-Hao  and Chen, Muhao  and Cotterell, Ryan  and Chang, Kai-Wei, 2019
 1. [Racial Bias in Hate Speech and Abusive Language Detection Datasets](https://www.aclweb.org/anthology/W19-3504), Davidson, Thomas  and Bhattacharya, Debasmita  and Weber, Ingmar, 2019
 1. [Social Biases in NLP Models as Barriers for Persons with Disabilities](https://www.aclweb.org/anthology/2020.acl-main.487), Hutchinson, Ben  and Prabhakaran, Vinodkumar  and Denton, Emily  and Webster, Kellie  and Zhong, Yu  and Denuyl, Stephen, 2020
@@ -133,18 +140,13 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [OSCaR: Orthogonal Subspace Correction and Rectification of Biases in Word Embeddings](https://arxiv.org/abs/2007.00049), Dev, Sunipa and Li, Tao  and Phillips, Jeff M  and Srikumar, Vivek, 2020
 1. [Women's Syntactic Resilience and Men's Grammatical Luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing](https://www.aclweb.org/anthology/P19-1339), Garimella, Aparna  and Banea, Carmen  and Hovy, Dirk  and Mihalcea, Rada, 2019
 1. [Towards Understanding Gender Bias in Relation Extraction](https://www.aclweb.org/anthology/2020.acl-main.265), Gaut, Andrew  and Sun, Tony  and Tang, Shirlyn  and Huang, Yuxin  and Qian, Jing  and ElSherief, Mai  and Zhao, Jieyu  and Mirza, Diba  and Belding, Elizabeth  and Chang, Kai-Wei  and Wang, William Yang, 2020
-1. [Type {B} Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias](https://www.aclweb.org/anthology/2020.emnlp-main.209), Gonz{\'a}lez, Ana Valeria  and Barrett, Maria  and Hvingelby, Rasmus  and Webster, Kellie  and S{\o}gaard, Anders, 2020
+1. [Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias](https://www.aclweb.org/anthology/2020.emnlp-main.209), Gonz{\'a}lez, Ana Valeria  and Barrett, Maria  and Hvingelby, Rasmus  and Webster, Kellie  and S{\o}gaard, Anders, 2020
 1. [Inflating Topic Relevance with Ideology: A Case Study of Political Ideology Bias in Social Topic Detection Models](https://www.aclweb.org/anthology/2020.coling-main.428), Guo, Meiqi  and Hwa, Rebecca  and Lin, Yu-Ru  and Chung, Wen-Ting, 2020
 1. [Media Bias, the Social Sciences, and NLP: Automating Frame Analyses to Identify Bias by Word Choice and Labeling](https://www.aclweb.org/anthology/2020.acl-srw.12), Hamborg, Felix, 2020
 1. [An Annotation Scheme for Automated Bias Detection in Wikipedia](https://www.aclweb.org/anthology/W11-0406), Herzig, Livnat  and Nunes, Alex  and Snir, Batia, 2011
 1. [Multilingual Twitter Corpus and Baselines for Evaluating Demographic Bias in Hate Speech Recognition](https://www.aclweb.org/anthology/2020.lrec-1.180), Huang, Xiaolei  and Xing, Linzi  and Dernoncourt, Franck  and Paul, Michael J., 2020
-1. [Mitigating Gender Bias Amplification in Distribution by Posterior Regularization](https://www.aclweb.org/anthology/2020.acl-main.264), Jia, Shengyu  and Meng, Tao  and Zhao, Jieyu  and Chang, Kai-Wei, 2020
 1. [Enhancing Bias Detection in Political News Using Pragmatic Presupposition](https://www.aclweb.org/anthology/2020.socialnlp-1.1), Kameswari, Lalitha  and Sravani, Dama  and Mamidi, Radhika, 2020
 1. [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](https://www.aclweb.org/anthology/S18-2005), Kiritchenko, Svetlana  and Mohammad, Saif, 2018
-2. [Debiasing Embeddings for Reduced Gender Bias in Text Classification](https://www.aclweb.org/anthology/W19-3810), Prost, Flavien  and Thain, Nithum  and Bolukbasi, Tolga, 2019
-3. [Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function](https://www.aclweb.org/anthology/P19-2031), Qian, Yusu  and Muaz, Urwa  and Zhang, Ben  and Hyun, Jae Won, 2019
-4. [Linguistic Models for Analyzing and Detecting Biased Language](https://www.aclweb.org/anthology/P13-1162), Recasens, Marta  and Danescu-Niculescu-Mizil, Cristian  and Jurafsky, Dan, 2013
-5. [What's in a Name? {R}educing Bias in Bios without Access to Protected Attributes](https://www.aclweb.org/anthology/N19-1424), Romanov, Alexey  and De-Arteaga, Maria  and Wallach, Hanna  and Chayes, Jennifer  and Borgs, Christian  and Chouldechova, Alexandra  and Geyik, Sahin  and Kenthapadi, Krishnaram  and Rumshisky, Anna  and Kalai, Adam, 2019
 6. [Social Bias in Elicited Natural Language Inferences](https://www.aclweb.org/anthology/W17-1609), Rudinger, Rachel  and May, Chandler  and Van Durme, Benjamin, 2017
 7. [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163), Sap, Maarten  and Card, Dallas  and Gabriel, Saadia  and Choi, Yejin  and Smith, Noah A., 2019
 8. [Social Bias Frames: Reasoning about Social and Power Implications of Language](https://www.aclweb.org/anthology/2020.acl-main.486), Sap, Maarten  and Gabriel, Saadia  and Qin, Lianhui  and Jurafsky, Dan  and Smith, Noah A.  and Choi, Yejin, 2020
@@ -152,10 +154,22 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 10. [Context in Informational Bias Detection](https://www.aclweb.org/anthology/2020.coling-main.556), van den Berg, Esther  and Markert, Katja, 2020
 11. [Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets](https://www.aclweb.org/anthology/2020.emnlp-main.199), Ousidhoum, Nedjma  and Song, Yangqiu  and Yeung, Dit-Yan, 2020 
 12. [Detecting and Reducing Bias in a High Stakes Domain](https://www.aclweb.org/anthology/D19-1483), Zhong, Ruiqi  and Chen, Yanda  and Patton, Desmond  and Selous, Charlotte  and McKeown, Kathy, 2019
-13. [Demoting Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/2020.socialnlp-1.2), Xia, Mengzhou  and Field, Anjalie  and Tsvetkov, Yulia, 2020
-14.  [Balanced Datasets Are Not Enough: Estimating and Mitigating Gender Bias in Deep Image Representations](https://arxiv.org/abs/1811.08489), Wang, Tianlu and Zhao, Jieyu and Yatskar, Mark and Chang, Kai-Wei and Ordonez, Vicente, 2019
 15. [Measuring the Effects of Bias in Training Data for Literary Classification](https://www.aclweb.org/anthology/2020.latechclfl-1.9), Bagga, Sunyam  and Piper, Andrew, 2020
 16. [Unsupervised Discovery of Implicit Gender Bias](https://www.aclweb.org/anthology/2020.emnlp-main.44), Field, Anjalie  and Tsvetkov, Yulia, 2020
+
+##### Bias Mitigation
+1. [Reducing Gender Bias in Abusive Language Detection](https://www.aclweb.org/anthology/D18-1302), Park, Ji Ho  and Shin, Jamin  and Fung, Pascale, 2018
+1. [On Measuring and Mitigating Biased Inferences of Word Embeddings](https://arxiv.org/abs/1908.09369), Dev, Sunipa and Li, Tao  and Phillips, Jeff M  and Srikumar, Vivek, 2019
+2. [Debiasing Embeddings for Reduced Gender Bias in Text Classification](https://www.aclweb.org/anthology/W19-3810), Prost, Flavien  and Thain, Nithum  and Bolukbasi, Tolga, 2019
+3. [Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function](https://www.aclweb.org/anthology/P19-2031), Qian, Yusu  and Muaz, Urwa  and Zhang, Ben  and Hyun, Jae Won, 2019
+4. [Linguistic Models for Analyzing and Detecting Biased Language](https://www.aclweb.org/anthology/P13-1162), Recasens, Marta  and Danescu-Niculescu-Mizil, Cristian  and Jurafsky, Dan, 2013
+5. [What's in a Name? Reducing Bias in Bios without Access to Protected Attributes](https://www.aclweb.org/anthology/N19-1424), Romanov, Alexey  and De-Arteaga, Maria  and Wallach, Hanna  and Chayes, Jennifer  and Borgs, Christian  and Chouldechova, Alexandra  and Geyik, Sahin  and Kenthapadi, Krishnaram  and Rumshisky, Anna  and Kalai, Adam, 2019
+13. [Demoting Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/2020.socialnlp-1.2), Xia, Mengzhou  and Field, Anjalie  and Tsvetkov, Yulia, 2020
+14.  [Balanced Datasets Are Not Enough: Estimating and Mitigating Gender Bias in Deep Image Representations](https://arxiv.org/abs/1811.08489), Wang, Tianlu and Zhao, Jieyu and Yatskar, Mark and Chang, Kai-Wei and Ordonez, Vicente, 2019
+15. [Fairness without Demographics through Adversarially Reweighted Learning
+](https://arxiv.org/abs/2006.13114), Preethi Lahoti, Alex Beutel, Jilin Chen, Kang Lee, Flavien Prost, Nithum Thain, Xuezhi Wang, Ed H. Chi, 2020.
+16. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), Peizhao Li, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu, 2021
+
 
 
 #### Natural Language Generation
