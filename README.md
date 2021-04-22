@@ -172,7 +172,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 15. [Fairness without Demographics through Adversarially Reweighted Learning
 ](https://arxiv.org/abs/2006.13114), Preethi Lahoti, Alex Beutel, Jilin Chen, Kang Lee, Flavien Prost, Nithum Thain, Xuezhi Wang, Ed H. Chi, 2020.
 16. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), Peizhao Li, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu, 2021
-
+17. [Challenges in Automated Debiasing for Toxic Language Detection](https://arxiv.org/abs/2102.00086), Zhou, Xuhui and Sap, Maarten and Swayamdipta, Swabha and Choi, Yejin and Smith, Noah A, 2021
 
 
 #### Natural Language Generation
@@ -211,22 +211,23 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [Investigating African-American Vernacular English in Transformer-Based Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.473), Groenwold, Sophie and Ou, Lily and Parekh, Aesha and Honnavalli, Samhita and Levy, Sharon and Mirza, Diba and Wang, William Yang, 2020
 1. [Automatic Gender Identification and Reinflection in Arabic](https://www.aclweb.org/anthology/W19-3822), Habash, Nizar and Bouamor, Houda and Chung, Christine, 2019
 1. [Reducing Sentiment Bias in Language Models via Counterfactual Evaluation](https://www.aclweb.org/anthology/2020.findings-emnlp.7), Huang, Po-Sen  and Zhang, Huan  and Jiang, Ray  and Stanforth, Robert  and Welbl, Johannes  and Rae, Jack  and Maini, Vishal  and Yogatama, Dani  and Kohli, Pushmeet, 2020
-1. [PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction](https://www.aclweb.org/anthology/2020.emnlp-main.602), Ma, Xinyao and Sap, Maarten and Rashkin, Hannah and Choi, Yejin, 2020
+2. [PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction](https://www.aclweb.org/anthology/2020.emnlp-main.602), Ma, Xinyao  and Sap, Maarten  and Rashkin, Hannah and Choi, Yejin, 2020
 1. [Reducing Non-Normative Text Generation from Language Models](https://www.aclweb.org/anthology/2020.inlg-1.43), Peng, Xiangyu and Li, Siyan and Frazier, Spencer  and Riedl, Mark, 2020
 1. [The Woman Worked as a Babysitter: On Biases in Language Generation](https://www.aclweb.org/anthology/D19-1339), Sheng, Emily and Chang, Kai-Wei and Natarajan, Premkumar and Peng, Nanyun, 2019
 1. [Towards Controllable Biases in Language Generation](https://www.aclweb.org/anthology/2020.findings-emnlp.291), Sheng, Emily and Chang, Kai-Wei and Natarajan, Premkumar and Peng, Nanyun, 2020
-1. ["You are grounded!": Latent Name Artifacts in Pre-trained Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.556), Shwartz, Vered and Rudinger, Rachel and Tafjord, Oyvind, 2020
-1. [Defining and Evaluating Fair Natural Language Generation](https://www.aclweb.org/anthology/2020.winlp-1.27), Yeo, Catherine  and Chen, Alyssa, 2020
-1. [Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology](https://www.aclweb.org/anthology/P19-1161), Zmigrod, Ran and Mielke, Sabrina J. and Wallach, Hanna and Cotterell, Ryan, 2019
-1. [Investigating Gender Bias in Language Models Using Causal Mediation Analysis](https://papers.nips.cc/paper/2020/hash/92650b2e92217715fe312e6fa7b90d82-Abstract.html), Vig, Jesse and Gehrmann, Sebastian and Belinkov, Yonatan and Qian, Sharon and Nevo, Daniel and Singer, Yaron and Shieber, Stuart, 2020
-1. [Release strategies and the social impacts of language models](https://arxiv.org/abs/1908.09203), Solaiman, Irene and Brundage, Miles and Clark, Jack and Askell, Amanda and Herbert-Voss, Ariel and Wu, Jeff and Radford, Alec and Krueger, Gretchen and Kim, Jong Wook and Kreps, Sarah and others, 2019
-1. [Automatically neutralizing subjective bias in text](https://ojs.aaai.org//index.php/AAAI/article/view/5385), Pryzant, Reid and Martinez, Richard Diehl and Dass, Nathan and Kurohashi, Sadao and Jurafsky, Dan and Yang, Diyi, 2020
-1. [Language models are few-shot learners](https://arxiv.org/abs/2005.14165), Brown, Tom B and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and others, 2020
-1. [BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation](https://arxiv.org/abs/2101.11718), Dhamala, Jwala and Sun, Tony and Kumar, Varun and Krishna, Satyapriya and Pruksachatkun, Yada and Chang, Kai-Wei and Gupta, Rahul, 2021
-1. [Viable Threat on News Reading: Generating Biased News Using Natural Language Models](https://www.aclweb.org/anthology/2020.nlpcss-1.7), Gupta, Saurabh  and Nguyen, Hong Huy  and Yamagishi, Junichi  and Echizen, Isao, 2020
-1. [Investigating Societal Biases in a Poetry Composition System](https://www.aclweb.org/anthology/2020.gebnlp-1.9), Sheng, Emily  and Uthus, David, 2020
-2. [PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction](https://www.aclweb.org/anthology/2020.emnlp-main.602), Ma, Xinyao  and Sap, Maarten  and Rashkin, Hannah  and Choi, Yejin, 2020
-3. [De-Biased Court's View Generation with Causality](https://www.aclweb.org/anthology/2020.emnlp-main.56), Wu, Yiquan  and Kuang, Kun  and Zhang, Yating  and Liu, Xiaozhong  and Sun, Changlong  and Xiao, Jun  and Zhuang, Yueting  and Si, Luo  and Wu, Fei, 2020
+2. [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://www.aclweb.org/anthology/2020.findings-emnlp.301/), Gehman, Sam and Gururangan, Suchin and Sap, Maarten and Choi, Yejin and Smith, Noah A, 2020
+3. ["You are grounded!": Latent Name Artifacts in Pre-trained Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.556), Shwartz, Vered and Rudinger, Rachel and Tafjord, Oyvind, 2020
+4. [Defining and Evaluating Fair Natural Language Generation](https://www.aclweb.org/anthology/2020.winlp-1.27), Yeo, Catherine  and Chen, Alyssa, 2020
+5. [Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology](https://www.aclweb.org/anthology/P19-1161), Zmigrod, Ran and Mielke, Sabrina J. and Wallach, Hanna and Cotterell, Ryan, 2019
+6. [Investigating Gender Bias in Language Models Using Causal Mediation Analysis](https://papers.nips.cc/paper/2020/hash/92650b2e92217715fe312e6fa7b90d82-Abstract.html), Vig, Jesse and Gehrmann, Sebastian and Belinkov, Yonatan and Qian, Sharon and Nevo, Daniel and Singer, Yaron and Shieber, Stuart, 2020
+7. [Release strategies and the social impacts of language models](https://arxiv.org/abs/1908.09203), Solaiman, Irene and Brundage, Miles and Clark, Jack and Askell, Amanda and Herbert-Voss, Ariel and Wu, Jeff and Radford, Alec and Krueger, Gretchen and Kim, Jong Wook and Kreps, Sarah and others, 2019
+8. [Automatically neutralizing subjective bias in text](https://ojs.aaai.org//index.php/AAAI/article/view/5385), Pryzant, Reid and Martinez, Richard Diehl and Dass, Nathan and Kurohashi, Sadao and Jurafsky, Dan and Yang, Diyi, 2020
+9. [Language models are few-shot learners](https://arxiv.org/abs/2005.14165), Brown, Tom B and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and others, 2020
+10. [BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation](https://arxiv.org/abs/2101.11718), Dhamala, Jwala and Sun, Tony and Kumar, Varun and Krishna, Satyapriya and Pruksachatkun, Yada and Chang, Kai-Wei and Gupta, Rahul, 2021
+11. [Viable Threat on News Reading: Generating Biased News Using Natural Language Models](https://www.aclweb.org/anthology/2020.nlpcss-1.7), Gupta, Saurabh  and Nguyen, Hong Huy  and Yamagishi, Junichi  and Echizen, Isao, 2020
+12. [Investigating Societal Biases in a Poetry Composition System](https://www.aclweb.org/anthology/2020.gebnlp-1.9), Sheng, Emily  and Uthus, David, 2020
+13. [De-Biased Court's View Generation with Causality](https://www.aclweb.org/anthology/2020.emnlp-main.56), Wu, Yiquan  and Kuang, Kun  and Zhang, Yating  and Liu, Xiaozhong  and Sun, Changlong  and Xiao, Jun  and Zhuang, Yueting  and Si, Luo  and Wu, Fei, 2020
+14. [Detoxifying Language Models Risks Marginalizing Minority Voices](https://arxiv.org/abs/2104.06390), Xu, Albert and Pathak, Eshaan and Wallace, Eric and Gururangan, Suchin, and Sap, Maarten and Klein, Dan, 2021
 
 #### Bias Visualization
 1. [FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning](https://arxiv.org/pdf/2104.02797.pdf), Cabrera, Ángel Alexander and Epperson, Will and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng, 2021
