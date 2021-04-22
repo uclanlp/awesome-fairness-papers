@@ -81,6 +81,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.154), Nangia, Nikita  and Vania, Clara  and Bhalerao, Rasika  and Bowman, Samuel R., 2020
 1. [Gender Bias in Coreference Resolution](https://www.aclweb.org/anthology/N18-2002), Rudinger, Rachel  and Naradowsky, Jason  and Leonard, Brian  and Van Durme, Benjamin, 2018
 1. [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://www.aclweb.org/anthology/N18-2003), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Ordonez, Vicente  and Chang, Kai-Wei, 2018
+1. [Unmasking the Mask -- Evaluating Social Biases in Masked Language Models](https://arxiv.org/abs/2104.07496), Kaneko, Masahiro  and Bollegala, Danushka, 2021
 
 #### Word/Sentence Representations
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam, 2016 [[github]](https://github.com/tolga-b/debiaswe)
@@ -98,6 +99,8 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them](https://www.aclweb.org/anthology/N19-1061), Gonen, Hila  and Goldberg, Yoav, 2019
 1. [It{'}s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution](https://www.aclweb.org/anthology/D19-1530), Hall Maudslay, Rowan  and Gonen, Hila  and Cotterell, Ryan  and Teufel, Simone, 2019
 1. [Gender-preserving Debiasing for Pre-trained Word Embeddings](https://www.aclweb.org/anthology/P19-1160), Kaneko, Masahiro  and Bollegala, Danushka, 2019
+1. [Debiasing Pre-trained Contextualised Embeddings](https://www.aclweb.org/anthology/2021.eacl-main.107), Kaneko, Masahiro  and Bollegala, Danushka, 2021
+1. [Dictionary-based Debiasing of Pre-trained Word Embeddings](https://www.aclweb.org/anthology/2021.eacl-main.16), Kaneko, Masahiro  and Bollegala, Danushka, 2021
 1. [Conceptor Debiasing of Word Representations Evaluated on WEAT](https://www.aclweb.org/anthology/W19-3806), Karve, Saket  and Ungar, Lyle  and Sedoc, Jo{\~a}o, 2019
 2. [Are We Consistently Biased? Multidimensional Analysis of Biases in Distributional Word Vectors](https://www.aclweb.org/anthology/S19-1010), Lauscher, Anne  and Glava{\v{s}}, Goran, 2019
 1. [AraWEAT: Multidimensional Analysis of Biases in Arabic Word Embeddings](https://www.aclweb.org/anthology/2020.wanlp-1.17), Lauscher, Anne  and Takieddin, Rafik  and Ponzetto, Simone Paolo  and Glava{\v{s}}, Goran, 2020
