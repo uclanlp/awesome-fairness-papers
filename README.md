@@ -172,7 +172,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 15. [Fairness without Demographics through Adversarially Reweighted Learning
 ](https://arxiv.org/abs/2006.13114), Preethi Lahoti, Alex Beutel, Jilin Chen, Kang Lee, Flavien Prost, Nithum Thain, Xuezhi Wang, Ed H. Chi, 2020.
 16. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), Peizhao Li, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu, 2021
-
+17. [Challenges in Automated Debiasing for Toxic Language Detection](https://arxiv.org/abs/2102.00086), Zhou, Xuhui and Sap, Maarten and Swayamdipta, Swabha and Choi, Yejin and Smith, Noah A, 2021
 
 
 #### Natural Language Generation
@@ -215,7 +215,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [Reducing Non-Normative Text Generation from Language Models](https://www.aclweb.org/anthology/2020.inlg-1.43), Peng, Xiangyu and Li, Siyan and Frazier, Spencer  and Riedl, Mark, 2020
 1. [The Woman Worked as a Babysitter: On Biases in Language Generation](https://www.aclweb.org/anthology/D19-1339), Sheng, Emily and Chang, Kai-Wei and Natarajan, Premkumar and Peng, Nanyun, 2019
 1. [Towards Controllable Biases in Language Generation](https://www.aclweb.org/anthology/2020.findings-emnlp.291), Sheng, Emily and Chang, Kai-Wei and Natarajan, Premkumar and Peng, Nanyun, 2020
-2. [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://www.aclweb.org/anthology/2020.findings-emnlp.301/) Gehman, Sam and Gururangan, Suchin and Sap, Maarten and Choi, Yejin and Smith, Noah A, 2020
+2. [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://www.aclweb.org/anthology/2020.findings-emnlp.301/), Gehman, Sam and Gururangan, Suchin and Sap, Maarten and Choi, Yejin and Smith, Noah A, 2020
 3. ["You are grounded!": Latent Name Artifacts in Pre-trained Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.556), Shwartz, Vered and Rudinger, Rachel and Tafjord, Oyvind, 2020
 4. [Defining and Evaluating Fair Natural Language Generation](https://www.aclweb.org/anthology/2020.winlp-1.27), Yeo, Catherine  and Chen, Alyssa, 2020
 5. [Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology](https://www.aclweb.org/anthology/P19-1161), Zmigrod, Ran and Mielke, Sabrina J. and Wallach, Hanna and Cotterell, Ryan, 2019
@@ -227,6 +227,7 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 11. [Viable Threat on News Reading: Generating Biased News Using Natural Language Models](https://www.aclweb.org/anthology/2020.nlpcss-1.7), Gupta, Saurabh  and Nguyen, Hong Huy  and Yamagishi, Junichi  and Echizen, Isao, 2020
 12. [Investigating Societal Biases in a Poetry Composition System](https://www.aclweb.org/anthology/2020.gebnlp-1.9), Sheng, Emily  and Uthus, David, 2020
 13. [De-Biased Court's View Generation with Causality](https://www.aclweb.org/anthology/2020.emnlp-main.56), Wu, Yiquan  and Kuang, Kun  and Zhang, Yating  and Liu, Xiaozhong  and Sun, Changlong  and Xiao, Jun  and Zhuang, Yueting  and Si, Luo  and Wu, Fei, 2020
+14. [Detoxifying Language Models Risks Marginalizing Minority Voices](https://arxiv.org/abs/2104.06390), Xu, Albert and Pathak, Eshaan and Wallace, Eric and Gururangan, Suchin, and Sap, Maarten and Klein, Dan, 2021
 
 #### Bias Visualization
 1. [FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning](https://arxiv.org/pdf/2104.02797.pdf), Cabrera, Ángel Alexander and Epperson, Will and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng, 2021
