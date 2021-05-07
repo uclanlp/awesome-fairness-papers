@@ -4,14 +4,15 @@ Papers about fairness in NLP
 [Jieyu Zhao](https://jyzhao.net/), [Emily Sheng](https://ewsheng.github.io/), [Sunipa Dev](https://sunipa.github.io/), [Yu (Hope) Hou](https://github.com/houyu0930), [Nanyun (Violet) Peng](https://vnpeng.net/), and [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)
 
 ## Background
-Fairness, accountability, transparency, and ethics are becoming more and more important in machine learning communities. We hope to provide a list of great papers that can serve as a reference for researchers interested in such topics. This repo mainly focuses on papers from ACL anthology, but we also point to some other resources at the end.
+Fairness, accountability, transparency, and ethics are becoming more and more important in Natural Language Processing (NLP). We provide a list of papers that serve as references for researchers interested in these topics. This repo mainly focuses on papers published in the NLP venues, but we also point to some other resources at the end.
 
+For relevant courses and other resources, please refer to [ACL Wiki](https://aclweb.org/aclwiki/Ethics_in_NLP)
 <!-- <p align='center'>
 <a href="https://godatadriven.com/blog/towards-fairness-in-ml-with-adversarial-networks/"><figure><img src="fairness_plot.svg", align="center"></figure></a>
 </p>
 <p align='center'>credit to <a href="https://godatadriven.com/blog/towards-fairness-in-ml-with-adversarial-networks/">Stijn Tonk</a></p> -->
 
-**Disclaimer: We are not able to cover all the papers in the list. But if you have any suggestions or want to add some relevant papers, please feel free to submit a pull request or email us. Your contribution means a lot to us!**
+**Disclaimer: We may miss some relevant papers in the list. If you have any suggestions or would like to add some relevant papers, please submit a pull request or email us. Your contribution is much appreciated!**
 
 ## Contents
 - [Paper List](#paper-list)
@@ -288,3 +289,4 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 - [Proceedings of the Second Workshop on Gender Bias in Natural Language Proceedings](https://www.aclweb.org/anthology/2020.gebnlp-1.0/), Costa-juss{\`a}, Marta R.  and Hardmeier, Christian  and Radford, Will  and Webster, Kellie, 2020
 - [Team Kermit-the-frog at SemEval-2019 Task 4: Bias Detection Through Sentiment Analysis and Simple Linguistic Features](https://www.aclweb.org/anthology/S19-2177), Anthonio, Talita  and Kloppenburg, Lennart, 2019
 - [Fairness and machine learning](https://fairmlbook.org/index.html)
+
