@@ -12,7 +12,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 </p>
 <p align='center'>credit to <a href="https://godatadriven.com/blog/towards-fairness-in-ml-with-adversarial-networks/">Stijn Tonk</a></p> -->
 
-**Disclaimer: We may miss some relevant papers in the list. If you have any suggestions or would like to add some relevant papers, please submit a pull request or email us. Your contribution is much appreciated!**
+**Disclaimer: We may miss some relevant papers in the list. If you have any suggestions or would like to add some papers, please submit a pull request or email us. Your contribution is much appreciated!**
 
 ## Contents
 - [Paper List](#paper-list)
