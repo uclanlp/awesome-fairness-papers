@@ -231,7 +231,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 14. [Detoxifying Language Models Risks Marginalizing Minority Voices](https://arxiv.org/abs/2104.06390), Xu, Albert and Pathak, Eshaan and Wallace, Eric and Gururangan, Suchin, and Sap, Maarten and Klein, Dan, 2021
 
 #### Bias Visualization
-1. [FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning](https://arxiv.org/pdf/2104.02797.pdf), Cabrera, Ángel Alexander and Epperson, Will and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng, 2021
+1. [FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning](https://arxiv.org/pdf/1904.05419.pdf), Cabrera, Ángel Alexander and Epperson, Will and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng, 2021
 2. [VERB: Visualizing and Interpreting Bias Mitigation Techniques for Word Representations](https://arxiv.org/pdf/2104.02797.pdf), Archit Rathore, Archit and Dev, Sunipa and Phillips, Jeff M. and Srikumar, Vivek and Zheng, Yan and Yeh, Chin-Chia Michael and Wang, Junpeng and Zhang, Wei and Wang, Bei, 2021
 3. [DebIE: A Platform for Implicit and Explicit Debiasing of Word Embedding Spaces](https://arxiv.org/abs/2103.06598), Friedrich, Niklas and Lauscher, Anne and Ponzetto, Simone Paolo and  Glavaš, Goran, 2021
 
