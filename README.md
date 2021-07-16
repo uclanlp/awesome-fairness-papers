@@ -39,8 +39,11 @@ Fairness, accountability, transparency, and ethics are becoming more and more im
 1. [Mitigating Gender Bias in Natural Language Processing: Literature Review](https://www.aclweb.org/anthology/P19-1159), Sun, Tony  and Gaut, Andrew  and Tang, Shirlyn  and Huang, Yuxin  and ElSherief, Mai  and Zhao, Jieyu  and Mirza, Diba  and Belding, Elizabeth  and Chang, Kai-Wei  and Wang, William Yang, 2019
 1. [A survey on bias and fairness in machine learning](https://arxiv.org/abs/1908.09635), Mehrabi, Ninareh and Morstatter, Fred and Saxena, Nripsuta and Lerman, Kristina and Galstyan, Aram, 2019
 1. [50 years of test (Un)fairness: Lessons for machine learning](https://dl.acm.org/doi/abs/10.1145/3287560.3287600), Hutchinson, Ben and Mitchell, Margaret, 2019
+1. [Societal Biases in Language Generation: Progress and Challenges](https://arxiv.org/abs/2105.04054), Sheng, Emily and Chang, Kai-Wei and Natarajan, Prem and Peng, Nanyun, 2021
+1. [Gender Bias in Machine Translation](https://arxiv.org/abs/2104.06001), Savoldi, Beatrice and Gaido, Marco and Bentivogli, Luisa and Negri, Matteo and Turchi, Marco, 2021
+1. [Quantifying Social Biases in NLP: A Generalization and Empirical Comparison of Extrinsic Fairness Metrics](https://arxiv.org/abs/2106.14574), Czarnowska, Paula and Vyas, Yogarshi and Shah Kashif, 2021
 1. [Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective](https://arxiv.org/abs/2012.12305), Kiritchenko, Svetlana and Nejadgholi, Isar and Fraser, Kathleen C, 2020
-2. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922), Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021.
+1. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922), Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021.
 
 #### Social Impact of Biases
 1. [The Social Impact of Natural Language Processing](https://www.aclweb.org/anthology/P16-2096), Hovy, Dirk and Spruit, Shannon L., 2016
