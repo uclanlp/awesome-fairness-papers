@@ -15,24 +15,27 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 **Disclaimer: We may miss some relevant papers in the list. If you have any suggestions or would like to add some papers, please submit a pull request or email us. Your contribution is much appreciated!**
 
 ## Contents
-- [Paper List](#paper-list)
-    - [Surveys](#surveys)
-    - [Social Impact of Biases](#social-impact-of-biases)
-    - [Data, Models, & Metrics](#data-models--metrics)
-    - [Word/Sentence Representations](#wordsentence-representations)
-    - [Natural Language Understanding](#natural-language-understanding)
-        - [Bias Amplification](#bias-amplification-issue)
+- [awesome-fairness-papers](#awesome-fairness-papers)
+  - [Background](#background)
+  - [Contents](#contents)
+    - [Paper List](#paper-list)
+      - [Surveys](#surveys)
+      - [Social Impact of Biases](#social-impact-of-biases)
+      - [Data, Models, & Metrics](#data-models--metrics)
+      - [Word/Sentence Representations](#wordsentence-representations)
+      - [Natural Language Understanding](#natural-language-understanding)
+        - [Bias Amplification Issue](#bias-amplification-issue)
         - [Bias Detection](#bias-detection)
         - [Bias Mitigation](#bias-mitigation)
-    - [Natural Language Generation](#natural-language-generation)
+      - [Natural Language Generation](#natural-language-generation)
         - [Machine Translation](#machine-translation)
         - [Dialogue Generation](#dialogue-generation)
         - [Other Generation](#other-generation)
-    - [Bias Visualization](#bias-visualization)
-    - [Other](#others)
-- [Tutorial List](#tutorial-list)
-    - [Jupyter/Colab Tutorial](#jupytercolab-tutorial)
-- [Conference/Workshop List](#conferenceworkshop-list)
+      - [Bias Visualization](#bias-visualization)
+      - [Others](#others)
+    - [Tutorial List](#tutorial-list)
+      - [Jupyter/Colab Tutorial](#jupytercolab-tutorial)
+    - [Conference/Workshop List](#conferenceworkshop-list)
 
 
 ### Paper List
@@ -48,6 +51,8 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Quantifying Social Biases in NLP: A Generalization and Empirical Comparison of Extrinsic Fairness Metrics](https://arxiv.org/abs/2106.14574), Czarnowska, Paula and Vyas, Yogarshi and Shah Kashif, 2021
 1. [Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective](https://arxiv.org/abs/2012.12305), Kiritchenko, Svetlana and Nejadgholi, Isar and Fraser, Kathleen C, 2020
 1. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922), Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021.
+1. [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu), Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero, Samira Shabanian, Sina Honari. NeurIPS, 2021.
+
 
 #### Social Impact of Biases
 1. [The Social Impact of Natural Language Processing](https://www.aclweb.org/anthology/P16-2096), Hovy, Dirk and Spruit, Shannon L., 2016
