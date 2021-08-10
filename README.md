@@ -62,7 +62,6 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Improving fairness in machine learning systems: What do industry practitioners need?](https://dl.acm.org/doi/10.1145/3290605.3300830), Holstein, Kenneth and Wortman Vaughan, Jennifer and Daumé III, Hal and Dudik, Miro and Wallach, Hanna, 2019
 1. The problem with bias: Allocative versus representational harms in machine learning, Barocas, Solon and Crawford, Kate and Shapiro, Aaron and Wallach, Hanna, 2017
 2. [The many dimensions of algorithmic fairness in educational applications](https://www.aclweb.org/anthology/W19-4401), Loukina, Anastassia  and Madnani, Nitin  and Zechner, Klaus, 2019
-1. [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu), Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero, Samira Shabanian, Sina Honari. NeurIPS, 2021.
 
 #### Data, Models, & Metrics
 1. [Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science](https://www.aclweb.org/anthology/Q18-1041), Bender, Emily M. and Friedman, Batya, 2018
@@ -169,8 +168,6 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 12. [Detecting and Reducing Bias in a High Stakes Domain](https://www.aclweb.org/anthology/D19-1483), Zhong, Ruiqi  and Chen, Yanda  and Patton, Desmond  and Selous, Charlotte  and McKeown, Kathy, 2019
 15. [Measuring the Effects of Bias in Training Data for Literary Classification](https://www.aclweb.org/anthology/2020.latechclfl-1.9), Bagga, Sunyam  and Piper, Andrew, 2020
 16. [Unsupervised Discovery of Implicit Gender Bias](https://www.aclweb.org/anthology/2020.emnlp-main.44), Field, Anjalie  and Tsvetkov, Yulia, 2020
-17. [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu), Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero, Samira Shabanian, Sina Honari. NeurIPS, 2021.
-
 
 ##### Bias Mitigation
 1. [Reducing Gender Bias in Abusive Language Detection](https://www.aclweb.org/anthology/D18-1302), Park, Ji Ho  and Shin, Jamin  and Fung, Pascale, 2018
@@ -185,7 +182,6 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 ](https://arxiv.org/abs/2006.13114), Preethi Lahoti, Alex Beutel, Jilin Chen, Kang Lee, Flavien Prost, Nithum Thain, Xuezhi Wang, Ed H. Chi, 2020.
 16. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), Peizhao Li, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu, 2021
 17. [Challenges in Automated Debiasing for Toxic Language Detection](https://arxiv.org/abs/2102.00086), Zhou, Xuhui and Sap, Maarten and Swayamdipta, Swabha and Choi, Yejin and Smith, Noah A, 2021
-18. [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu), Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero, Samira Shabanian, Sina Honari. NeurIPS, 2021.
 
 #### Natural Language Generation
 
@@ -276,7 +272,6 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Analyzing Gender Bias within Narrative Tropes](https://www.aclweb.org/anthology/2020.nlpcss-1.23), Gala, Dhruvil  and Khursheed, Mohammad Omar  and Lerner, Hannah  and O'Connor, Brendan  and Iyyer, Mohit, 2020
 1. [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809), Gangula, Rama Rohit Reddy  and Duggenpudi, Suma Reddy  and Mamidi, Radhika, 2019
 2. [Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation](https://www.aclweb.org/anthology/2020.emnlp-main.157), Munro, Robert  and Morrison, Alex (Carmen), 2020
-
 5. [Analyzing Gender Bias in Student Evaluations](https://www.aclweb.org/anthology/C16-1083), Terkik, Andamlak  and Prud{'}hommeaux, Emily  and Ovesdotter Alm, Cecilia  and Homan, Christopher  and Franklin, Scott, 2016
 
 ### Tutorial List
