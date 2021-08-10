@@ -15,24 +15,27 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 **Disclaimer: We may miss some relevant papers in the list. If you have any suggestions or would like to add some papers, please submit a pull request or email us. Your contribution is much appreciated!**
 
 ## Contents
-- [Paper List](#paper-list)
-    - [Surveys](#surveys)
-    - [Social Impact of Biases](#social-impact-of-biases)
-    - [Data, Models, & Metrics](#data-models--metrics)
-    - [Word/Sentence Representations](#wordsentence-representations)
-    - [Natural Language Understanding](#natural-language-understanding)
-        - [Bias Amplification](#bias-amplification-issue)
+- [awesome-fairness-papers](#awesome-fairness-papers)
+  - [Background](#background)
+  - [Contents](#contents)
+    - [Paper List](#paper-list)
+      - [Surveys](#surveys)
+      - [Social Impact of Biases](#social-impact-of-biases)
+      - [Data, Models, & Metrics](#data-models--metrics)
+      - [Word/Sentence Representations](#wordsentence-representations)
+      - [Natural Language Understanding](#natural-language-understanding)
+        - [Bias Amplification Issue](#bias-amplification-issue)
         - [Bias Detection](#bias-detection)
         - [Bias Mitigation](#bias-mitigation)
-    - [Natural Language Generation](#natural-language-generation)
+      - [Natural Language Generation](#natural-language-generation)
         - [Machine Translation](#machine-translation)
         - [Dialogue Generation](#dialogue-generation)
         - [Other Generation](#other-generation)
-    - [Bias Visualization](#bias-visualization)
-    - [Other](#others)
-- [Tutorial List](#tutorial-list)
-    - [Jupyter/Colab Tutorial](#jupytercolab-tutorial)
-- [Conference/Workshop List](#conferenceworkshop-list)
+      - [Bias Visualization](#bias-visualization)
+      - [Others](#others)
+    - [Tutorial List](#tutorial-list)
+      - [Jupyter/Colab Tutorial](#jupytercolab-tutorial)
+    - [Conference/Workshop List](#conferenceworkshop-list)
 
 
 ### Paper List
@@ -49,6 +52,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective](https://arxiv.org/abs/2012.12305), Kiritchenko, Svetlana and Nejadgholi, Isar and Fraser, Kathleen C, 2020
 1. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922), Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021.
 
+
 #### Social Impact of Biases
 1. [The Social Impact of Natural Language Processing](https://www.aclweb.org/anthology/P16-2096), Hovy, Dirk and Spruit, Shannon L., 2016
 1. [Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?](https://www.aclweb.org/anthology/2020.acl-main.261), Leins, Kobi and Lau, Jey Han and Baldwin, Timothy, 2020
@@ -57,7 +61,6 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Improving fairness in machine learning systems: What do industry practitioners need?](https://dl.acm.org/doi/10.1145/3290605.3300830), Holstein, Kenneth and Wortman Vaughan, Jennifer and Daumé III, Hal and Dudik, Miro and Wallach, Hanna, 2019
 1. The problem with bias: Allocative versus representational harms in machine learning, Barocas, Solon and Crawford, Kate and Shapiro, Aaron and Wallach, Hanna, 2017
 2. [The many dimensions of algorithmic fairness in educational applications](https://www.aclweb.org/anthology/W19-4401), Loukina, Anastassia  and Madnani, Nitin  and Zechner, Klaus, 2019
-
 
 #### Data, Models, & Metrics
 1. [Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science](https://www.aclweb.org/anthology/Q18-1041), Bender, Emily M. and Friedman, Batya, 2018
@@ -86,6 +89,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Gender Bias in Coreference Resolution](https://www.aclweb.org/anthology/N18-2002), Rudinger, Rachel  and Naradowsky, Jason  and Leonard, Brian  and Van Durme, Benjamin, 2018
 1. [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://www.aclweb.org/anthology/N18-2003), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Ordonez, Vicente  and Chang, Kai-Wei, 2018
 1. [Unmasking the Mask -- Evaluating Social Biases in Masked Language Models](https://arxiv.org/abs/2104.07496), Kaneko, Masahiro  and Bollegala, Danushka, 2021
+1. [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu), Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero, Samira Shabanian, Sina Honari. NeurIPS, 2021.
 
 #### Word/Sentence Representations
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam, 2016 [[github]](https://github.com/tolga-b/debiaswe)
@@ -178,7 +182,6 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 16. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), Peizhao Li, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu, 2021
 17. [Challenges in Automated Debiasing for Toxic Language Detection](https://arxiv.org/abs/2102.00086), Zhou, Xuhui and Sap, Maarten and Swayamdipta, Swabha and Choi, Yejin and Smith, Noah A, 2021
 
-
 #### Natural Language Generation
 
 ##### Machine Translation
@@ -268,7 +271,6 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Analyzing Gender Bias within Narrative Tropes](https://www.aclweb.org/anthology/2020.nlpcss-1.23), Gala, Dhruvil  and Khursheed, Mohammad Omar  and Lerner, Hannah  and O'Connor, Brendan  and Iyyer, Mohit, 2020
 1. [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809), Gangula, Rama Rohit Reddy  and Duggenpudi, Suma Reddy  and Mamidi, Radhika, 2019
 2. [Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation](https://www.aclweb.org/anthology/2020.emnlp-main.157), Munro, Robert  and Morrison, Alex (Carmen), 2020
-
 5. [Analyzing Gender Bias in Student Evaluations](https://www.aclweb.org/anthology/C16-1083), Terkik, Andamlak  and Prud{'}hommeaux, Emily  and Ovesdotter Alm, Cecilia  and Homan, Christopher  and Franklin, Scott, 2016
 
 ### Tutorial List
