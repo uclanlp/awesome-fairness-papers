@@ -83,6 +83,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Gender Bias in Coreference Resolution](https://www.aclweb.org/anthology/N18-2002), Rudinger, Rachel  and Naradowsky, Jason  and Leonard, Brian  and Van Durme, Benjamin, 2018
 1. [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://www.aclweb.org/anthology/N18-2003), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Ordonez, Vicente  and Chang, Kai-Wei, 2018
 1. [Unmasking the Mask -- Evaluating Social Biases in Masked Language Models](https://arxiv.org/abs/2104.07496), Kaneko, Masahiro  and Bollegala, Danushka, 2021
+1. [WIKIBIAS: Detecting Multi-Span Subjective Biases in Language](https://www.cc.gatech.edu/~dyang888/docs/emnlp21_wikibias.pdf), Yang Zhong, Jingfeng Yang, Wei Xu and Diyi Yang, EMNLP, 2021
 
 #### Word/Sentence Representations
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam, 2016 [[github]](https://github.com/tolga-b/debiaswe)
@@ -125,6 +126,9 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 3. [Modeling Personal Biases in Language Use by Inducing Personalized Word Embeddings](https://www.aclweb.org/anthology/N19-1215), Oba, Daisuke  and Yoshinaga, Naoki  and Sato, Shoetsu  and Akasaki, Satoshi  and Toyoda, Masashi, 2019
 4. [Quantifying 60 Years of Gender Bias in Biomedical Research with Word Embeddings](https://www.aclweb.org/anthology/2020.bionlp-1.1), Rios, Anthony  and Joshi, Reenam  and Shin, Hejin, 2020
 1. [Debiasing knowledge graph embeddings](https://www.aclweb.org/anthology/2020.emnlp-main.595), Fisher, Joseph  and Mittal, Arpit  and Palfrey, Dave  and Christodoulopoulos, Christos, 2020
+1. [Assessing the Reliability of Word Embedding Gender Bias Measures](https://arxiv.org/abs/2109.04732), Yupei Du, Qixiang Fang, Dong Nguyen, EMNLP, 2021
+1. [Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies](https://arxiv.org/abs/2108.12084), Sunipa Dev, Masoud Monajatipoor, Anaelia Ovalle, Arjun Subramonian, Jeff M Phillips, Kai-Wei Chang, EMNLP, 2021
+
 
 
 
@@ -160,6 +164,9 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 12. [Detecting and Reducing Bias in a High Stakes Domain](https://www.aclweb.org/anthology/D19-1483), Zhong, Ruiqi  and Chen, Yanda  and Patton, Desmond  and Selous, Charlotte  and McKeown, Kathy, 2019
 15. [Measuring the Effects of Bias in Training Data for Literary Classification](https://www.aclweb.org/anthology/2020.latechclfl-1.9), Bagga, Sunyam  and Piper, Andrew, 2020
 16. [Unsupervised Discovery of Implicit Gender Bias](https://www.aclweb.org/anthology/2020.emnlp-main.44), Field, Anjalie  and Tsvetkov, Yulia, 2020
+17. [Evaluating Debiasing Techniques for Intersectional Biases](https://arxiv.org/abs/2109.10441), Shivashankar Subramanian, Xudong Han, Timothy Baldwin, Trevor Cohn, Lea Frermann, EMNLP 2021
+18. [Towards Automatic Bias Detection in Knowledge Graphs](https://arxiv.org/abs/2109.10697), Daphna Keidar, Mian Zhong, Ce Zhang, Yash Raj Shrestha, Bibek Paudel, EMNLP, 2021
+19. [Uncovering Implicit Gender Bias in Narratives through Commonsense Inference](https://arxiv.org/abs/2109.06437), Tenghao Huang, Faeze Brahman, Vered Shwartz, Snigdha Chaturvedi, EMNLP 2021
 
 ##### Bias Mitigation
 1. [Reducing Gender Bias in Abusive Language Detection](https://www.aclweb.org/anthology/D18-1302), Park, Ji Ho  and Shin, Jamin  and Fung, Pascale, 2018
@@ -174,7 +181,8 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 ](https://arxiv.org/abs/2006.13114), Preethi Lahoti, Alex Beutel, Jilin Chen, Kang Lee, Flavien Prost, Nithum Thain, Xuezhi Wang, Ed H. Chi, 2020.
 16. [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/pdf?id=xgGS6PmzNq6), Peizhao Li, Yifei Wang, Han Zhao, Pengyu Hong, Hongfu Liu, 2021
 17. [Challenges in Automated Debiasing for Toxic Language Detection](https://arxiv.org/abs/2102.00086), Zhou, Xuhui and Sap, Maarten and Swayamdipta, Swabha and Choi, Yejin and Smith, Noah A, 2021
-
+18. [Mitigating Language-Dependent Ethnic Bias in BERT](https://arxiv.org/abs/2109.05704), Jaimeen Ahn, Alice Oh, EMNLP, 2021
+19. [Sustainable Modular Debiasing of Language Models](https://arxiv.org/abs/2109.03646), Anne Lauscher, Tobias Lüken, Goran Glavaš, EMNLP, 2021
 
 #### Natural Language Generation
 
@@ -229,6 +237,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 12. [Investigating Societal Biases in a Poetry Composition System](https://www.aclweb.org/anthology/2020.gebnlp-1.9), Sheng, Emily  and Uthus, David, 2020
 13. [De-Biased Court's View Generation with Causality](https://www.aclweb.org/anthology/2020.emnlp-main.56), Wu, Yiquan  and Kuang, Kun  and Zhang, Yating  and Liu, Xiaozhong  and Sun, Changlong  and Xiao, Jun  and Zhuang, Yueting  and Si, Luo  and Wu, Fei, 2020
 14. [Detoxifying Language Models Risks Marginalizing Minority Voices](https://arxiv.org/abs/2104.06390), Xu, Albert and Pathak, Eshaan and Wallace, Eric and Gururangan, Suchin, and Sap, Maarten and Klein, Dan, 2021
+15. [Detect and Perturb: Neutral Rewriting of Biased and Sensitive Text via Gradient-based Decoding](https://arxiv.org/abs/2109.11708), Zexue He, Bodhisattwa Prasad Majumder, Julian McAuley, EMNLP, 2021
 
 #### Bias Visualization
 1. [FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning](https://arxiv.org/pdf/1904.05419.pdf), Cabrera, Ángel Alexander and Epperson, Will and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng, 2021
