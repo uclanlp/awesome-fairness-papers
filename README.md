@@ -239,6 +239,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 1. [Ethical challenges in data-driven dialogue systems](https://arxiv.org/abs/1711.09050), Henderson, Peter and Sinha, Koustuv and Angelard-Gontier, Nicolas and Ke, Nan Rosemary and Fried, Genevieve and Lowe, Ryan and Pineau, Joelle, 2018
 1. ["Nice Try, Kiddo": Ad Hominems in Dialogue Systems](https://arxiv.org/abs/2010.12820), Sheng, Emily and Chang, Kai-Wei and Natarajan, Premkumar and Peng, Nanyun, 2020
 7. [The Moral Integrity Corpus: A Benchmark for Ethical Dialogue Systems](https://arxiv.org/abs/2204.03021). Caleb Ziems, Jane A. Yu, Yi-Chia Wang, Alon Halevy, Diyi Yang. ACL 2022.
+8. [First the Worst: Finding Better Gender Translations During Beam Search](https://aclanthology.org/2022.findings-acl.301/). Danielle Saunders, Rosie Sallis, Bill Byrne. ACL 2022 Findings
 
 ##### Other Generation
 1. [Gender-Aware Reinflection using Linguistically Enhanced Neural Models](https://www.aclweb.org/anthology/2020.gebnlp-1.12), Alhafni, Bashar and Habash, Nizar and Bouamor, Houda, 2020
