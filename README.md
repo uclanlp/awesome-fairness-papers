@@ -51,7 +51,8 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Quantifying Social Biases in NLP: A Generalization and Empirical Comparison of Extrinsic Fairness Metrics](https://arxiv.org/abs/2106.14574), Czarnowska, Paula and Vyas, Yogarshi and Shah Kashif, 2021
 1. [Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective](https://arxiv.org/abs/2012.12305), Kiritchenko, Svetlana and Nejadgholi, Isar and Fraser, Kathleen C, 2020
 1. [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922), Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021.
-
+2. [An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models ](https://arxiv.org/abs/2110.08527). Nicholas Meade, Elinor Poole-Dayan, Siva Reddy. ACL 2022
+12. [Square One Bias in NLP: Towards a Multi-Dimensional Exploration of the Research Manifold](https://aclanthology.org/2022.findings-acl.184/). Sebastian Ruder, Ivan Vulić, Anders Søgaard. ACL 2022 Findings.
 
 #### Social Impact of Biases
 1. [The Social Impact of Natural Language Processing](https://www.aclweb.org/anthology/P16-2096), Hovy, Dirk and Spruit, Shannon L., 2016
@@ -91,7 +92,10 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Unmasking the Mask -- Evaluating Social Biases in Masked Language Models](https://arxiv.org/abs/2104.07496), Kaneko, Masahiro  and Bollegala, Danushka, 2021
 1. [WIKIBIAS: Detecting Multi-Span Subjective Biases in Language](https://www.cc.gatech.edu/~dyang888/docs/emnlp21_wikibias.pdf), Zhong, Yang and Yang, Jingfeng and Xu, Wei and Yang, Diyi, EMNLP, 2021
 1. [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu), Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero, Samira Shabanian, Sina Honari. NeurIPS, 2021.
-
+29. [FairLex: A Multilingual Benchmark for Evaluating
+Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias Chalkidis, Tommaso Pasini, Sheng Zhang, Letizia Tomada, Sebastian Felix Schwemer, Anders Søgaard. ACL 2022.
+30. [French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English](https://aclanthology.org/2022.acl-long.583/). Aurélie Névéol, Yoann Dupont, Julien Bezançon, Karën Fort. ACL 2022
+31. [Measuring Fairness of Text Classifiers via Prediction Sensitivity](https://arxiv.org/abs/2203.08670). Satyapriya Krishna, Rahul Gupta, Apurv Verma, Jwala Dhamala, Yada Pruksachatkun, Kai-Wei Chang. ACL 2022.
 
 #### Word/Sentence Representations
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam, 2016 [[github]](https://github.com/tolga-b/debiaswe)
@@ -138,8 +142,10 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Debiasing knowledge graph embeddings](https://www.aclweb.org/anthology/2020.emnlp-main.595), Fisher, Joseph  and Mittal, Arpit  and Palfrey, Dave  and Christodoulopoulos, Christos, 2020
 1. [Assessing the Reliability of Word Embedding Gender Bias Measures](https://arxiv.org/abs/2109.04732), Du, Yupei and Fang, Qixiang and Nguyen, Dong, EMNLP, 2021
 1. [Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies](https://arxiv.org/abs/2108.12084), Dev, Sunipa and Monajatipoor, Masoud and Ovalle, Anaelia and Subramonian, Arjun and Phillips, Jeff M and Chang, Kai-Wei, EMNLP, 2021
-
-
+45. [Sense Embeddings are also Biased -- Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). Yi Zhou, Masahiro Kaneko, Danushka Bollegala. ACL 2022
+46. [Understanding Gender Bias in Knowledge Base Embeddings](https://aclanthology.org/2022.acl-long.98/). Yupei Du, Qi Zheng, Yuanbin Wu, Man Lan, Yan Yang, Meirong Ma. ACL 2022
+47. [On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations ](https://arxiv.org/abs/2203.13928). Yang Trista Cao, Yada Pruksachatkun, Kai-Wei Chang, Rahul Gupta, Varun Kumar, Jwala Dhamala, Aram Galstyan. ACL 2022
+48. [Learning Bias-reduced Word Embeddings Using Dictionary Definitions](https://aclanthology.org/2022.findings-acl.90/). Haozhe An, Xiaojiang Liu, Donald Zhang. ACL 2022 Findings.
 
 
 #### Natural Language Understanding
@@ -178,6 +184,8 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 18. [Towards Automatic Bias Detection in Knowledge Graphs](https://arxiv.org/abs/2109.10697), Keidar, Daphna and Zhong, Mian and Zhang, Ce and Shrestha, Yash Raj and Paudel, Bibek, EMNLP, 2021
 19. [Uncovering Implicit Gender Bias in Narratives through Commonsense Inference](https://arxiv.org/abs/2109.06437), Huang, Tenghao and Brahman, Faeze and Shwartz, Vered and Chaturvedi, Snigdha, EMNLP 2021
 17. [Is Your Classifier Actually Biased? Measuring Fairness under Uncertainty with Bernstein Bounds](https://www.aclweb.org/anthology/2020.acl-main.262/), Ethayarajh, Kawin, 2020
+29. [Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective](https://arxiv.org/abs/2203.11401). Osama Khalid, Jonathan Rusert, Padmini Srinivasan. ACL 2022 Findings
+30. [Your fairness may vary: Pretrained language model fairness in toxic text classification](https://arxiv.org/abs/2108.01250). Ioana Baldini, Dennis Wei, Karthikeyan Natesan Ramamurthy, Mikhail Yurochkin, Moninder Singh. ACL 2022 Findings
 
 ##### Bias Mitigation
 1. [Reducing Gender Bias in Abusive Language Detection](https://www.aclweb.org/anthology/D18-1302), Park, Ji Ho  and Shin, Jamin  and Fung, Pascale, 2018
@@ -194,6 +202,10 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 17. [Challenges in Automated Debiasing for Toxic Language Detection](https://arxiv.org/abs/2102.00086), Zhou, Xuhui and Sap, Maarten and Swayamdipta, Swabha and Choi, Yejin and Smith, Noah A, 2021
 18. [Mitigating Language-Dependent Ethnic Bias in BERT](https://arxiv.org/abs/2109.05704), Ahn, Jaimeen and Oh, Alice, EMNLP, 2021
 19. [Sustainable Modular Debiasing of Language Models](https://arxiv.org/abs/2109.03646), Lauscher, Anne and Lüken, Tobias and Glavaš, Goran, EMNLP, 2021
+20. [An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models]. Nicholas Meade, Elinor Poole-Dayan, Siva Reddy. ACL 2022
+15. [Fair and Argumentative Language Modeling for Computational Argumentation](https://arxiv.org/abs/2204.04026). Carolin Holtermann, Anne Lauscher, Simone Paolo Ponzetto. ACL 2022.
+16. [Upstream Mitigation Is Not All You Need: Testing the Bias Transfer Hypothesis in Pre-Trained Language Models](https://aclanthology.org/2022.acl-long.247/). Ryan Steed, Swetasudha Panda, Ari Kobren, Michael Wick. ACL 2022
+17. [Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal](https://arxiv.org/abs/2203.12574). Umang Gupta, Jwala Dhamala, Varun Kumar, Apurv Verma, Yada Pruksachatkun, Satyapriya Krishna, Rahul Gupta, Kai-Wei Chang, Greg Ver Steeg, Aram Galstyan. ACL 2022 Findings.
 
 
 #### Natural Language Generation
@@ -217,6 +229,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [How to Measure Gender Bias in Machine Translation: Optimal Translators, Multiple Reference Points](https://arxiv.org/abs/2011.06445), Farkas, Anna and Németh, Renáta, 2020
 1. [Gender aware spoken language translation applied to English-Arabic](https://arxiv.org/abs/1802.09287), Elaraby, Mostafa and Tawfik, Ahmed Y and Khaled, Mahmoud and Hassan, Hany and Osama, Aly, 2018
 1. [Type {B} Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias](https://www.aclweb.org/anthology/2020.emnlp-main.209), Gonz{\'a}lez, Ana Valeria  and Barrett, Maria  and Hvingelby, Rasmus  and Webster, Kellie  and S{\o}gaard, Anders, 2020
+19. [Measuring and Mitigating Name Biases in Neural Machine Translation](https://aclanthology.org/2022.acl-long.184.pdf). Jun Wang, Benjamin Rubinstein, Trevor Cohn. ACL 2022
 
 ##### Dialogue Generation
 1. [Conversational Assistants and Gender Stereotypes: Public Perceptions and Desiderata for Voice Personas](https://www.aclweb.org/anthology/2020.gebnlp-1.7), Cercas Curry, Amanda and Robertson, Judy and Rieser, Verena 2020
@@ -225,6 +238,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation](https://www.aclweb.org/anthology/2020.emnlp-main.656), Dinan, Emily  and Fan, Angela and Williams, Adina and Urbanek, Jack and Kiela, Douwe and Weston, Jason, 2020
 1. [Ethical challenges in data-driven dialogue systems](https://arxiv.org/abs/1711.09050), Henderson, Peter and Sinha, Koustuv and Angelard-Gontier, Nicolas and Ke, Nan Rosemary and Fried, Genevieve and Lowe, Ryan and Pineau, Joelle, 2018
 1. ["Nice Try, Kiddo": Ad Hominems in Dialogue Systems](https://arxiv.org/abs/2010.12820), Sheng, Emily and Chang, Kai-Wei and Natarajan, Premkumar and Peng, Nanyun, 2020
+7. [The Moral Integrity Corpus: A Benchmark for Ethical Dialogue Systems](https://arxiv.org/abs/2204.03021). Caleb Ziems, Jane A. Yu, Yi-Chia Wang, Alon Halevy, Diyi Yang. ACL 2022.
 
 ##### Other Generation
 1. [Gender-Aware Reinflection using Linguistically Enhanced Neural Models](https://www.aclweb.org/anthology/2020.gebnlp-1.12), Alhafni, Bashar and Habash, Nizar and Bouamor, Houda, 2020
@@ -250,6 +264,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 13. [De-Biased Court's View Generation with Causality](https://www.aclweb.org/anthology/2020.emnlp-main.56), Wu, Yiquan  and Kuang, Kun  and Zhang, Yating  and Liu, Xiaozhong  and Sun, Changlong  and Xiao, Jun  and Zhuang, Yueting  and Si, Luo  and Wu, Fei, 2020
 14. [Detoxifying Language Models Risks Marginalizing Minority Voices](https://arxiv.org/abs/2104.06390), Xu, Albert and Pathak, Eshaan and Wallace, Eric and Gururangan, Suchin, and Sap, Maarten and Klein, Dan, 2021
 15. [Detect and Perturb: Neutral Rewriting of Biased and Sensitive Text via Gradient-based Decoding](https://arxiv.org/abs/2109.11708), He, Zexue and Majumder, Bodhisattwa Prasad and McAuley, Julian, EMNLP, 2021
+24. [Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts](https://aclanthology.org/2022.acl-long.72.pdf). Yue Guo, Yi Yang, Ahmed Abbasi. ACL 2022.
 
 #### Bias Visualization
 1. [FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning](https://arxiv.org/pdf/1904.05419.pdf), Cabrera, Ángel Alexander and Epperson, Will and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng, 2021
@@ -287,6 +302,8 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809), Gangula, Rama Rohit Reddy  and Duggenpudi, Suma Reddy  and Mamidi, Radhika, 2019
 2. [Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation](https://www.aclweb.org/anthology/2020.emnlp-main.157), Munro, Robert  and Morrison, Alex (Carmen), 2020
 5. [Analyzing Gender Bias in Student Evaluations](https://www.aclweb.org/anthology/C16-1083), Terkik, Andamlak  and Prud{'}hommeaux, Emily  and Ovesdotter Alm, Cecilia  and Homan, Christopher  and Franklin, Scott, 2016
+30. [Ethics Sheets for AI Tasks](https://arxiv.org/pdf/2107.01183.pdf). Saif M. Mohammad. ACL 2022
+31. [VALUE: Understanding Dialect Disparity in NLU](https://arxiv.org/abs/2204.03031).Caleb Ziems, Jiaao Chen, Camille Harris, Jessica Anderson, Diyi Yang. ACL 2022.
 
 ### Tutorial List
 - [Fairness in Machine Learning](https://nips.cc/Conferences/2017/Schedule?showEvent=8734), NeurIPS 2017
