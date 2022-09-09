@@ -92,13 +92,14 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 1. [Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods](https://www.aclweb.org/anthology/N18-2003), Zhao, Jieyu  and Wang, Tianlu  and Yatskar, Mark  and Ordonez, Vicente  and Chang, Kai-Wei, 2018
 1. [Unmasking the Mask -- Evaluating Social Biases in Masked Language Models](https://arxiv.org/abs/2104.07496), Kaneko, Masahiro  and Bollegala, Danushka, 2021
 1. [WIKIBIAS: Detecting Multi-Span Subjective Biases in Language](https://www.cc.gatech.edu/~dyang888/docs/emnlp21_wikibias.pdf), Zhong, Yang and Yang, Jingfeng and Xu, Wei and Yang, Diyi, EMNLP, 2021
-1. [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu), Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero, Samira Shabanian, Sina Honari. NeurIPS, 2021.
+2. [Constructing a Psychometric Testbed for Fair Natural Language Processing](https://aclanthology.org/2021.emnlp-main.304), Ahmed Abbasi, David Dobolyi, John P. Lalor, Richard G. Netemeyer, Kendall Smith, and Yi Yang, EMNLP 2021
+3. [Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/forum?id=OTnqQUEwPKu), Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero, Samira Shabanian, Sina Honari. NeurIPS, 2021.
 29. [FairLex: A Multilingual Benchmark for Evaluating
 Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias Chalkidis, Tommaso Pasini, Sheng Zhang, Letizia Tomada, Sebastian Felix Schwemer, Anders Søgaard. ACL 2022.
 30. [French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English](https://aclanthology.org/2022.acl-long.583/). Aurélie Névéol, Yoann Dupont, Julien Bezançon, Karën Fort. ACL 2022
 31. [Measuring Fairness of Text Classifiers via Prediction Sensitivity](https://arxiv.org/abs/2203.08670). Satyapriya Krishna, Rahul Gupta, Apurv Verma, Jwala Dhamala, Yada Pruksachatkun, Kai-Wei Chang. ACL 2022.
 32. Connecting Loss Difference with Equal Opportunity for Fair Models Aili Shen, Xudong Han, Trevor Cohn, Timothy Baldwin, Lea Frermann. NAACL 2022
-33. Benchmarking Intersectional Biases in NLP John P. Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi. NAACL 2022
+33. [Benchmarking Intersectional Biases in NLP](https://aclanthology.org/2022.naacl-main.263/), John P. Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi. NAACL 2022
 
 #### Word/Sentence Representations
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam, 2016 [[github]](https://github.com/tolga-b/debiaswe)
