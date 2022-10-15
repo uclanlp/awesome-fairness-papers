@@ -283,6 +283,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 24. [Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts](https://aclanthology.org/2022.acl-long.72.pdf). Yue Guo, Yi Yang, Ahmed Abbasi. ACL 2022.
 
 #### Bias Visualization
+1. [Fairsight: Visual analytics for fairness in decision making](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805420), Ahn, Yongsu and Lin, Yuru, 2019
 1. [FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning](https://arxiv.org/pdf/1904.05419.pdf), Cabrera, Ángel Alexander and Epperson, Will and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng, 2021
 2. [VERB: Visualizing and Interpreting Bias Mitigation Techniques for Word Representations](https://arxiv.org/pdf/2104.02797.pdf), Archit Rathore, Archit and Dev, Sunipa and Phillips, Jeff M. and Srikumar, Vivek and Zheng, Yan and Yeh, Chin-Chia Michael and Wang, Junpeng and Zhang, Wei and Wang, Bei, 2021
 3. [DebIE: A Platform for Implicit and Explicit Debiasing of Word Embedding Spaces](https://arxiv.org/abs/2103.06598), Friedrich, Niklas and Lauscher, Anne and Ponzetto, Simone Paolo and  Glavaš, Goran, 2021
