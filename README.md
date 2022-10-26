@@ -1,4 +1,4 @@
-# awesome-fairness-papers 
+# awesome-fairness-papers
 Papers about fairness in NLP
 
 [Jieyu Zhao](https://jyzhao.net/), [Emily Sheng](https://ewsheng.github.io/), [Sunipa Dev](https://sunipa.github.io/), [Yu (Hope) Hou](https://github.com/houyu0930), [Nanyun (Violet) Peng](https://vnpeng.net/), and [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)
@@ -100,6 +100,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 31. [Measuring Fairness of Text Classifiers via Prediction Sensitivity](https://arxiv.org/abs/2203.08670). Satyapriya Krishna, Rahul Gupta, Apurv Verma, Jwala Dhamala, Yada Pruksachatkun, Kai-Wei Chang. ACL 2022.
 32. Connecting Loss Difference with Equal Opportunity for Fair Models Aili Shen, Xudong Han, Trevor Cohn, Timothy Baldwin, Lea Frermann. NAACL 2022
 33. [Benchmarking Intersectional Biases in NLP](https://aclanthology.org/2022.naacl-main.263/), John P. Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi. NAACL 2022
+35. [Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation](https://aclanthology.org/2021.findings-emnlp.211/). Shahar Levy, Koren Lazar, Gabriel Stanovsky. EMNLP 2021
 
 #### Word/Sentence Representations
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam, 2016 [[github]](https://github.com/tolga-b/debiaswe)
@@ -182,7 +183,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 8. [Social Bias Frames: Reasoning about Social and Power Implications of Language](https://www.aclweb.org/anthology/2020.acl-main.486), Sap, Maarten  and Gabriel, Saadia  and Qin, Lianhui  and Jurafsky, Dan  and Smith, Noah A.  and Choi, Yejin, 2020
 9. [Do Neural Language Models Overcome Reporting Bias?](https://www.aclweb.org/anthology/2020.coling-main.605), Shwartz, Vered  and Choi, Yejin, 2020
 10. [Context in Informational Bias Detection](https://www.aclweb.org/anthology/2020.coling-main.556), van den Berg, Esther  and Markert, Katja, 2020
-11. [Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets](https://www.aclweb.org/anthology/2020.emnlp-main.199), Ousidhoum, Nedjma  and Song, Yangqiu  and Yeung, Dit-Yan, 2020 
+11. [Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets](https://www.aclweb.org/anthology/2020.emnlp-main.199), Ousidhoum, Nedjma  and Song, Yangqiu  and Yeung, Dit-Yan, 2020
 12. [Detecting and Reducing Bias in a High Stakes Domain](https://www.aclweb.org/anthology/D19-1483), Zhong, Ruiqi  and Chen, Yanda  and Patton, Desmond  and Selous, Charlotte  and McKeown, Kathy, 2019
 15. [Measuring the Effects of Bias in Training Data for Literary Classification](https://www.aclweb.org/anthology/2020.latechclfl-1.9), Bagga, Sunyam  and Piper, Andrew, 2020
 16. [Unsupervised Discovery of Implicit Gender Bias](https://www.aclweb.org/anthology/2020.emnlp-main.44), Field, Anjalie  and Tsvetkov, Yulia, 2020
@@ -197,6 +198,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 33. [Using Natural Sentence Prompts for Understanding Biases in Language Models](https://arxiv.org/abs/2205.06303). Sarah Alnegheimish, Alicia Guo, Yi Sun. NAACL 2022
 34. [Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification](https://arxiv.org/abs/2204.05459). Xiaolei Huang. NAACL 2022
 35. On Measuring Social Biases in Prompt-Based Learning Afra Feyza Akyürek, Sejin Paik, Muhammed Yusuf Kocyigit, Seda Akbiyik, Şerife Leman Runyun, Derry Wijaya. NAACL 2022 Findings
+36. [Unpacking the Interdependent Systems of Discrimination: Ableist Bias in NLP Systems through an Intersectional Lens](https://aclanthology.org/2021.findings-emnlp.267/). Saad Hassan, Matt Huenerfauth, Cecilia Ovesdotter Alm. EMNLP 2021
 
 
 ##### Bias Mitigation
@@ -219,6 +221,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 16. [Upstream Mitigation Is Not All You Need: Testing the Bias Transfer Hypothesis in Pre-Trained Language Models](https://aclanthology.org/2022.acl-long.247/). Ryan Steed, Swetasudha Panda, Ari Kobren, Michael Wick. ACL 2022
 17. [Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal](https://arxiv.org/abs/2203.12574). Umang Gupta, Jwala Dhamala, Varun Kumar, Apurv Verma, Yada Pruksachatkun, Satyapriya Krishna, Rahul Gupta, Kai-Wei Chang, Greg Ver Steeg, Aram Galstyan. ACL 2022 Findings.
 18. [How Gender Debiasing Affects Internal Model Representations, and Why It Matters](https://arxiv.org/abs/2204.06827). Hadas Orgad, Seraphina Goldfarb-Tarrant, Yonatan Belinkov. NAACL 2022
+19. [Are Gender-Neutral Queries Really Gender-Neutral? Mitigating Gender Bias in Image Search](https://aclanthology.org/2021.emnlp-main.151/). Jialu Wang, Yang Liu, Xin Wang. EMNLP 2021
 
 
 
@@ -245,6 +248,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 1. [Gender aware spoken language translation applied to English-Arabic](https://arxiv.org/abs/1802.09287), Elaraby, Mostafa and Tawfik, Ahmed Y and Khaled, Mahmoud and Hassan, Hany and Osama, Aly, 2018
 1. [Type {B} Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias](https://www.aclweb.org/anthology/2020.emnlp-main.209), Gonz{\'a}lez, Ana Valeria  and Barrett, Maria  and Hvingelby, Rasmus  and Webster, Kellie  and S{\o}gaard, Anders, 2020
 19. [Measuring and Mitigating Name Biases in Neural Machine Translation](https://aclanthology.org/2022.acl-long.184.pdf). Jun Wang, Benjamin Rubinstein, Trevor Cohn. ACL 2022
+20. [GFST: Gender-Filtered Self-Training for More Accurate Gender in Translation](https://aclanthology.org/2021.emnlp-main.123/). Prafulla Kumar Choubey, Anna Currey, Prashant Mathur, Georgiana Dinu. EMNLP 2021
 
 ##### Dialogue Generation
 1. [Conversational Assistants and Gender Stereotypes: Public Perceptions and Desiderata for Voice Personas](https://www.aclweb.org/anthology/2020.gebnlp-1.7), Cercas Curry, Amanda and Robertson, Judy and Rieser, Verena 2020
@@ -345,4 +349,3 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 - [Proceedings of the Second Workshop on Gender Bias in Natural Language Proceedings](https://www.aclweb.org/anthology/2020.gebnlp-1.0/), Costa-juss{\`a}, Marta R.  and Hardmeier, Christian  and Radford, Will  and Webster, Kellie, 2020
 - [Team Kermit-the-frog at SemEval-2019 Task 4: Bias Detection Through Sentiment Analysis and Simple Linguistic Features](https://www.aclweb.org/anthology/S19-2177), Anthonio, Talita  and Kloppenburg, Lennart, 2019
 - [Fairness and machine learning](https://fairmlbook.org/index.html)
-
