@@ -1,7 +1,8 @@
 # awesome-fairness-papers
 Papers about fairness in NLP
 
-[Jieyu Zhao](https://jyzhao.net/), [Emily Sheng](https://ewsheng.github.io/), [Sunipa Dev](https://sunipa.github.io/), [Yu (Hope) Hou](https://github.com/houyu0930), [Nanyun (Violet) Peng](https://vnpeng.net/), and [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)
+[Christina Chance](https://www.linkedin.com/in/christina-chance-147666166), [Jieyu Zhao](https://jyzhao.net/), [Emily Sheng](https://ewsheng.github.io/), [Sunipa Dev](https://sunipa.github.io/), [Yu (Hope) Hou](https://github.com/houyu0930), [Nanyun (Violet) Peng](https://vnpeng.net/),
+and [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)
 
 ## Background
 Fairness, accountability, transparency, and ethics are becoming more and more important in Natural Language Processing (NLP). We provide a list of papers that serve as references for researchers interested in these topics. This repo mainly focuses on papers published in the NLP venues, but we also point to some other resources at the end.
