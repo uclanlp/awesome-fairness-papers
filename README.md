@@ -195,7 +195,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 29. [Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective](https://arxiv.org/abs/2203.11401). Osama Khalid, Jonathan Rusert, Padmini Srinivasan. ACL 2022 Findings
 30. [Your fairness may vary: Pretrained language model fairness in toxic text classification](https://arxiv.org/abs/2108.01250). Ioana Baldini, Dennis Wei, Karthikeyan Natesan Ramamurthy, Mikhail Yurochkin, Moninder Singh. ACL 2022 Findings
 31. Features or Spurious Artifacts? Data-centric Baselines for Fair and Robust Hate Speech Detection Alan Ramponi, Sara Tonelli. NAACL 2022
-32. Gender Bias in Masked Language Models for Multiple Languages Masahiro Kaneko, Aizhan Imankulova, Danushka Bollegala, Naoaki Okazaki. NAACL 2022
+32. [Gender Bias in Masked Language Models for Multiple Languages](https://aclanthology.org/2022.naacl-main.197.pdf). Masahiro Kaneko, Aizhan Imankulova, Danushka Bollegala, Naoaki Okazaki. NAACL 2022
 33. [Using Natural Sentence Prompts for Understanding Biases in Language Models](https://arxiv.org/abs/2205.06303). Sarah Alnegheimish, Alicia Guo, Yi Sun. NAACL 2022
 34. [Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification](https://arxiv.org/abs/2204.05459). Xiaolei Huang. NAACL 2022
 35. On Measuring Social Biases in Prompt-Based Learning Afra Feyza Akyürek, Sejin Paik, Muhammed Yusuf Kocyigit, Seda Akbiyik, Şerife Leman Runyun, Derry Wijaya. NAACL 2022 Findings
