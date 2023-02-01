@@ -55,6 +55,8 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 2. [An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models ](https://arxiv.org/abs/2110.08527). Nicholas Meade, Elinor Poole-Dayan, Siva Reddy. ACL 2022
 12. [Square One Bias in NLP: Towards a Multi-Dimensional Exploration of the Research Manifold](https://aclanthology.org/2022.findings-acl.184/). Sebastian Ruder, Ivan Vulić, Anders Søgaard. ACL 2022 Findings.
 13. [Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained](https://aclanthology.org/2022.naacl-main.122.pdf). Language Models Pieter Delobelle, Ewoenam Kwaku Tokpo, Toon Calders, Bettina Berendt. NAACL 2022
+14. [Benchmarking Intersectional Biases in NLP](https://aclanthology.org/2022.naacl-main.263.pdf). John Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi. NAACL 2022.
+15. [Measure and Improve Robustness in NLP Models: A Survey](https://aclanthology.org/2022.naacl-main.339.pdf). Xuezhi Wang, Haohan Wang, Diyi Yang. NAACL 2022.
 
 #### Social Impact of Biases
 1. [The Social Impact of Natural Language Processing](https://www.aclweb.org/anthology/P16-2096), Hovy, Dirk and Spruit, Shannon L., 2016
@@ -99,9 +101,11 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias Chalkidis, Tommaso Pasini, Sheng Zhang, Letizia Tomada, Sebastian Felix Schwemer, Anders Søgaard. ACL 2022.
 30. [French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English](https://aclanthology.org/2022.acl-long.583/). Aurélie Névéol, Yoann Dupont, Julien Bezançon, Karën Fort. ACL 2022
 31. [Measuring Fairness of Text Classifiers via Prediction Sensitivity](https://arxiv.org/abs/2203.08670). Satyapriya Krishna, Rahul Gupta, Apurv Verma, Jwala Dhamala, Yada Pruksachatkun, Kai-Wei Chang. ACL 2022.
-32. [Optimising Equal Opportunity Fairness in Model Training](https://aclanthology.org/2022.naacl-main.299.pdf). Aili Shen, Xudong Han, Trevor Cohn, Timothy Baldwin, Lea Frermann. NAACL 2022
-33. [Benchmarking Intersectional Biases in NLP](https://aclanthology.org/2022.naacl-main.263/), John P. Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi. NAACL 2022
+32. [Optimising Equal Opportunity Fairness in Model Training](https://aclanthology.org/2022.naacl-main.299.pdf). Aili Shen, Xudong Han, Trevor Cohn, Timothy Baldwin, Lea Frermann. NAACL 2022.
+33. [Benchmarking Intersectional Biases in NLP](https://aclanthology.org/2022.naacl-main.263/), John P. Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi. NAACL 2022.
 35. [Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation](https://aclanthology.org/2021.findings-emnlp.211/). Shahar Levy, Koren Lazar, Gabriel Stanovsky. EMNLP 2021
+36. [Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution](https://aclanthology.org/2022.naacl-main.250.pdf). Connor Baumler and Rachel Rudinger. NAACL 2022.
+37. [Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models](https://aclanthology.org/2022.naacl-main.92.pdf). Yang Trista Cao, Anna Sotnikova, Hal Daumé III, Rachel Rudinger, Linda Zou. NAACL 2022.
 
 #### Word/Sentence Representations
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam, 2016 [[github]](https://github.com/tolga-b/debiaswe)
@@ -260,6 +264,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 1. ["Nice Try, Kiddo": Ad Hominems in Dialogue Systems](https://arxiv.org/abs/2010.12820), Sheng, Emily and Chang, Kai-Wei and Natarajan, Premkumar and Peng, Nanyun, 2020
 7. [The Moral Integrity Corpus: A Benchmark for Ethical Dialogue Systems](https://arxiv.org/abs/2204.03021). Caleb Ziems, Jane A. Yu, Yi-Chia Wang, Alon Halevy, Diyi Yang. ACL 2022.
 8. [First the Worst: Finding Better Gender Translations During Beam Search](https://aclanthology.org/2022.findings-acl.301/). Danielle Saunders, Rosie Sallis, Bill Byrne. ACL 2022 Findings
+9. [Hate Speech and Counter Speech Detection: Conversational Context Does Matter](https://aclanthology.org/2022.naacl-main.433.pdf). Xinchen Yu, Eduardo Blanco, Lingzi Hong. NAACL 2022.
 
 ##### Other Generation
 1. [Gender-Aware Reinflection using Linguistically Enhanced Neural Models](https://www.aclweb.org/anthology/2020.gebnlp-1.12), Alhafni, Bashar and Habash, Nizar and Bouamor, Houda, 2020
@@ -286,6 +291,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 14. [Detoxifying Language Models Risks Marginalizing Minority Voices](https://arxiv.org/abs/2104.06390), Xu, Albert and Pathak, Eshaan and Wallace, Eric and Gururangan, Suchin, and Sap, Maarten and Klein, Dan, 2021
 15. [Detect and Perturb: Neutral Rewriting of Biased and Sensitive Text via Gradient-based Decoding](https://arxiv.org/abs/2109.11708), He, Zexue and Majumder, Bodhisattwa Prasad and McAuley, Julian, EMNLP, 2021
 24. [Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts](https://aclanthology.org/2022.acl-long.72.pdf). Yue Guo, Yi Yang, Ahmed Abbasi. ACL 2022.
+25. [A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation](https://aclanthology.org/2022.naacl-main.223.pdf). David Adelani et. al. NAACL 2022.
 
 #### Bias Visualization
 1. [Fairsight: Visual analytics for fairness in decision making](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805420), Ahn, Yongsu and Lin, Yuru, 2019
