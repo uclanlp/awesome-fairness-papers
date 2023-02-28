@@ -343,6 +343,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 - [Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned](https://sites.google.com/view/kdd19-fairness-tutorial), KDD 2019
 - [Dealing with Bias and Fairness in Building Data Science/ML/AI Systems](https://dssg.github.io/fairness_tutorial/), KDD 2020
 - [A Visual Tour of Bias Mitigation Techniques for Word Representations](http://www.sci.utah.edu/~beiwang/aaaibias2021/index.html), AAAI 2021
+- [How to test the fairness of ML models? The 80% rule to measure the disparate impact](https://www.giskard.ai/knowledge/how-to-test-ml-models-5-the-80-rule-to-measure-disparity), Giskard 2023
 
 #### Jupyter/Colab Tutorial
 - [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://github.com/uclanlp/reducingbias/blob/master/src/fairCRF_gender_ratio.ipynb)
