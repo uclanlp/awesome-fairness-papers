@@ -114,6 +114,10 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 41. [FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models](https://aclanthology.org/2023.findings-acl.631/). Shramay Palta, Rachel Rudinger. ACL 2023 Findings
 42. [KoSBI: A Dataset for Mitigating Social Bias Risks Towards Safer Large Language Model Applications](https://aclanthology.org/2023.acl-industry.21/). Hwaran Lee, Seokhee Hong, Joonsuk Park, Takyoung Kim, Gunhee Kim, Jung-woo Ha. ACL 2023
 43. [Riveter: Measuring Power and Social Dynamics Between Entities](https://aclanthology.org/2023.acl-demo.36/). Maria Antoniak, Anjalie Field, Jimin Mun, Melanie Walsh, Lauren Klein, Maarten Sap. ACL 2023
+44. [BERTScore is Unfair: On Social Bias in Language Model-Based Metrics for Text Generation](https://aclanthology.org/2022.emnlp-main.245/). Tianxiang Sun, Junliang He, Xipeng Qiu, Xuanjing Huang. EMNLP 2022
+45. [FairLib: A Unified Framework for Assessing and Improving Fairness](https://aclanthology.org/2022.emnlp-demos.7/). Xudong Han, Aili Shen, Yitong Li, Lea Frermann, Timothy Baldwin, Trevor Cohn. EMNLP 2022
+46. [Towards Identifying Social Bias in Dialog Systems: Framework, Dataset, and Benchmark](https://aclanthology.org/2022.findings-emnlp.262/). Jingyan Zhou, Jiawen Deng, Fei Mi, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen Meng. EMNLP 2022
+47. [Detecting Unintended Social Bias in Toxic Language Datasets](https://aclanthology.org/2022.conll-1.10/). Nihar Sahoo, Himanshu Gupta, Pushpak Bhattacharyya. EMNLP 2022
 
 #### Word/Sentence Representations
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam, 2016 [[github]](https://github.com/tolga-b/debiaswe)
@@ -165,6 +169,9 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 47. [On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations ](https://arxiv.org/abs/2203.13928). Yang Trista Cao, Yada Pruksachatkun, Kai-Wei Chang, Rahul Gupta, Varun Kumar, Jwala Dhamala, Aram Galstyan. ACL 2022
 48. [Learning Bias-reduced Word Embeddings Using Dictionary Definitions](https://aclanthology.org/2022.findings-acl.90/). Haozhe An, Xiaojiang Liu, Donald Zhang. ACL 2022 Findings.
 49. [Socially Aware Bias Measurements for Hindi Language Representations](https://arxiv.org/abs/2110.07871). Vijit Malik, Sunipa Dev, Akihiro Nishi, Nanyun Peng, Kai-Wei Chang. NAACL 2022
+50. [No Word Embedding Model Is Perfect: Evaluating the Representation Accuracy for Social Bias in the Media](https://aclanthology.org/2022.findings-emnlp.152/). Maximilian Spliethöver, Maximilian Keiff, Henning Wachsmuth. EMNLP 2022
+51. [Gender Bias in Meta-Embeddings](https://aclanthology.org/2022.findings-emnlp.227/). Masahiro Kaneko, Danushka Bollegala, Naoaki Okazaki. EMNLP 2022
+52. [The Undesirable Dependence on Frequency of Gender Bias Metrics Based on Word Embeddings](https://aclanthology.org/2022.findings-emnlp.373/). Francisco Valentini, Germán Rosati, Diego Fernandez Slezak, Edgar Altszyler. EMNLP 2022
 
 
 
@@ -223,7 +230,9 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 45. [Run Like a Girl! Sport-Related Gender Bias in Language and Vision](https://aclanthology.org/2023.findings-acl.886/). Sophia Harrison, Eleonora Gualdoni, Gemma Boleda. ACL 2023 Findings
 46. [Race, Gender, and Age Biases in Biomedical Masked Language Models](https://aclanthology.org/2023.findings-acl.749/). Michelle Kim, Junghwan Kim, Kristen Johnson. ACL 2023 Findings
 47. [Stereotypes and Smut: The (Mis)representation of Non-cisgender Identities by Text-to-Image Models](https://aclanthology.org/2023.findings-acl.502/). Eddie Ungless, Bjorn Ross, Anne Lauscher. ACL 2023 Findings
-
+48. [Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information](https://aclanthology.org/2022.blackboxnlp-1.18/). Isar Nejadgholi, Esma Balkir, Kathleen Fraser, Svetlana Kiritchenko. EMNLP 2022
+49. [“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset](https://aclanthology.org/2022.emnlp-main.625/). Eric Michael Smith, Melissa Hall, Melanie Kambadur, Eleonora Presani, Adina Williams. EMNLP 2022
+50. [Mind Your Bias: A Critical Review of Bias Detection Methods for Contextual Language Models](https://aclanthology.org/2022.findings-emnlp.311/). Silke Husse, Andreas Spitz. EMNLP 2022
 
 ##### Bias Mitigation
 1. [Reducing Gender Bias in Abusive Language Detection](https://www.aclweb.org/anthology/D18-1302), Park, Ji Ho  and Shin, Jamin  and Fung, Pascale, 2018
@@ -255,7 +264,13 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 26. [Gender-tuning: Empowering Fine-tuning for Debiasing Pre-trained Language Models](https://aclanthology.org/2023.findings-acl.336/). Somayeh Ghanbarzadeh, Yan Huang, Hamid Palangi, Radames Cruz Moreno, Hamed Khanpour. ACL 2023 Findings
 27. [Bias Beyond English: Counterfactual Tests for Bias in Sentiment Analysis in Four Languages](https://aclanthology.org/2023.findings-acl.272/). Seraphina Goldfarb-Tarrant, Adam Lopez, Roi Blanco, Diego Marcheggiani. ACL 2023 Findings
 28. [On Evaluating and Mitigating Gender Biases in Multilingual Settings](https://aclanthology.org/2023.findings-acl.21/). Aniket Vashishtha, Kabir Ahuja, Sunayana Sitaram. ACL 2023 Findings
-
+29. [Perturbation Augmentation for Fairer NLP](https://aclanthology.org/2022.emnlp-main.646/). Rebecca Qian, Candace Ross, Jude Fernandes, Eric Michael Smith, Douwe Kiela, Adina Williams. EMNLP 2022
+30. [MABEL: Attenuating Gender Bias using Textual Entailment Data](https://aclanthology.org/2022.emnlp-main.657/). Jacqueline He, Mengzhou Xia, Christiane Fellbaum, Danqi Chen. EMNLP 2022
+31. [Balancing out Bias: Achieving Fairness Through Balanced Training](https://aclanthology.org/2022.emnlp-main.779/). Xudong Han, Timothy Baldwin, Trevor Cohn. EMNLP 2022
+32. [Debiasing Masks: A New Framework for Shortcut Mitigation in NLU](https://aclanthology.org/2022.emnlp-main.517/). Johannes Mario Meissner, Saku Sugawara, Akiko Aizawa. EMNLP 2022
+33. [Don’t Just Clean It, Proxy Clean It: Mitigating Bias by Proxy in Pre-Trained Models](https://aclanthology.org/2022.findings-emnlp.372/). Swetasudha Panda, Ari Kobren, Michael Wick, Qinlan Shen. EMNLP 2022
+34. [To Prefer or to Choose? Generating Agency and Power Counterfactuals Jointly for Gender Bias Mitigation](https://aclanthology.org/2022.nlpcss-1.6/). Maja Stahl, Maximilian Spliethöver, Henning Wachsmuth. EMNLP 2022
+35. [A Robust Bias Mitigation Procedure Based on the Stereotype Content Model](https://aclanthology.org/2022.nlpcss-1.23/). Eddie Ungless, Amy Rafferty, Hrichika Nag, Björn Ross. EMNLP 2022
 
 
 
@@ -283,6 +298,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 19. [Measuring and Mitigating Name Biases in Neural Machine Translation](https://aclanthology.org/2022.acl-long.184.pdf). Jun Wang, Benjamin Rubinstein, Trevor Cohn. ACL 2022
 20. [GFST: Gender-Filtered Self-Training for More Accurate Gender in Translation](https://aclanthology.org/2021.emnlp-main.123/). Prafulla Kumar Choubey, Anna Currey, Prashant Mathur, Georgiana Dinu. EMNLP 2021
 21. [What about “em”? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns](https://aclanthology.org/2023.acl-long.23/). Anne Lauscher, Debora Nozza, Ehm Miltersen, Archie Crowley, Dirk Hovy. ACL 2023
+22. [How sensitive are translation systems to extra contexts? Mitigating gender bias in Neural Machine Translation models through relevant contexts.](https://aclanthology.org/2022.findings-emnlp.143/). Shanya Sharma, Manan Dey, Koustuv Sinha. EMNLP 2022
 
 ##### Dialogue Generation
 1. [Conversational Assistants and Gender Stereotypes: Public Perceptions and Desiderata for Voice Personas](https://www.aclweb.org/anthology/2020.gebnlp-1.7), Cercas Curry, Amanda and Robertson, Judy and Rieser, Verena 2020
@@ -322,6 +338,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 24. [Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts](https://aclanthology.org/2022.acl-long.72.pdf). Yue Guo, Yi Yang, Ahmed Abbasi. ACL 2022.
 25. [A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation](https://aclanthology.org/2022.naacl-main.223.pdf). David Adelani et. al. NAACL 2022.
 26. [Exploiting Biased Models to De-bias Text: A Gender-Fair Rewriting Model](https://aclanthology.org/2023.acl-long.246/). Chantal Amrhein, Florian Schottmann, Rico Sennrich, Samuel Läubli. ACL 2023
+27. [Towards Robust NLG Bias Evaluation with Syntactically-diverse Prompts](https://aclanthology.org/2022.findings-emnlp.445/). Arshiya Aggarwal, Jiao Sun, Nanyun Peng. EMNLP 2022
 
 #### Bias Visualization
 1. [Fairsight: Visual analytics for fairness in decision making](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805420), Ahn, Yongsu and Lin, Yuru, 2019
@@ -364,7 +381,11 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 31. [VALUE: Understanding Dialect Disparity in NLU](https://arxiv.org/abs/2204.03031).Caleb Ziems, Jiaao Chen, Camille Harris, Jessica Anderson, Diyi Yang. ACL 2022.
 32. [Annotators with Attitudes: How Annotator Beliefs And Identities Bias Toxic Language Detection](https://www.semanticscholar.org/paper/Annotators-with-Attitudes%3A-How-Annotator-Beliefs-Sap-Swayamdipta/cf3cfb90a6d8c431dc8a7f115b011d5ffbb439ee). Maarten Sap, Swabha Swayamdipta, Laura Vianna, Xuhui Zhou, Yejin Choi, Noah Smith. NAACL 2022
 33. [Multi-VALUE: A Framework for Cross-Dialectal English NLP](https://aclanthology.org/2023.acl-long.44/). Caleb Ziems, William Held, Jingfeng Yang, Jwala Dhamala, Rahul Gupta, Diyi Yang. ACL 2023
-34. [Trade-Offs Between Fairness and Privacy in Language Modeling](https://aclanthology.org/2023.findings-acl.434/). Cleo Matzken, Steffen Eger, Ivan Habernal. ACL 2023 Findings.
+34. [Trade-Offs Between Fairness and Privacy in Language Modeling](https://aclanthology.org/2023.findings-acl.434/). Cleo Matzken, Steffen Eger, Ivan Habernal. ACL 2023 Findings
+35. [Bridging Fairness and Environmental Sustainability in Natural Language Processing](https://aclanthology.org/2022.emnlp-main.533/). Marius Hessenthaler, Emma Strubell, Dirk Hovy, Anne Lauscher. EMNLP 2022
+36. [Fair NLP Models with Differentially Private Text Encoders](https://aclanthology.org/2022.findings-emnlp.514/). Gaurav Maheshwari, Pascal Denis, Mikaela Keller, Aurélien Bellet. EMNLP 2022
+37. [Should We Ban English NLP for a Year?](https://aclanthology.org/2022.emnlp-main.351/). Anders Søgaard. EMNLP 2022
+38. [Controlling Bias Exposure for Fair Interpretable Predictions](https://aclanthology.org/2022.findings-emnlp.431/). Zexue He, Yu Wang, Julian McAuley, Bodhisattwa Prasad Majumder. EMNLP 2022 
 
 
 ### Tutorial List
