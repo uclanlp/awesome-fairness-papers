@@ -68,6 +68,9 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 2. [The many dimensions of algorithmic fairness in educational applications](https://www.aclweb.org/anthology/W19-4401), Loukina, Anastassia  and Madnani, Nitin  and Zechner, Klaus, 2019
 3. [NLPositionality: Characterizing Design Biases of Datasets and Models](https://aclanthology.org/2023.acl-long.505/). Sebastin Santy, Jenny Liang, Ronan Le Bras, Katharina Reinecke, Maarten Sap. ACL 2023
 4. [What social attitudes about gender does BERT encode? Leveraging insights from psycholinguistics](https://aclanthology.org/2023.acl-long.375/). Julia Watson, Barend Beekhuizen, Suzanne Stevenson. ACL 2023
+5. [Examining risks of racial biases in NLP tools for child protective services](https://dl.acm.org/doi/10.1145/3593013.3594094). Anjalie Field, Amanda Coston, Nupoor Gandhi, Alexandra Chouldechova, Emily Putnam-Hornstein, David Steier, Yulia Tsvetkov. ACM FAccT 2023
+6. ["I wouldn’t say offensive but...": Disability-Centered Perspectives on Large Language Models](https://dl.acm.org/doi/10.1145/3593013.3593989). Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Emily Denton, Robin Brewer. ACM FAccT 2023
+7. [Contrastive Language-Vision AI Models Pretrained on Web-Scraped Multimodal Data Exhibit Sexual Objectification Bias](https://dl.acm.org/doi/10.1145/3593013.3594072). Robert Wolfe, Yiwei Yang, Bill Howe, Aylin Caliskan. ACM FAccT 2023
 
 #### Data, Models, & Metrics
 1. [Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science](https://www.aclweb.org/anthology/Q18-1041), Bender, Emily M. and Friedman, Batya, 2018
@@ -233,6 +236,8 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 48. [Towards Procedural Fairness: Uncovering Biases in How a Toxic Language Classifier Uses Sentiment Information](https://aclanthology.org/2022.blackboxnlp-1.18/). Isar Nejadgholi, Esma Balkir, Kathleen Fraser, Svetlana Kiritchenko. EMNLP 2022
 49. [“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset](https://aclanthology.org/2022.emnlp-main.625/). Eric Michael Smith, Melissa Hall, Melanie Kambadur, Eleonora Presani, Adina Williams. EMNLP 2022
 50. [Mind Your Bias: A Critical Review of Bias Detection Methods for Contextual Language Models](https://aclanthology.org/2022.findings-emnlp.311/). Silke Husse, Andreas Spitz. EMNLP 2022
+51. [Bias Against 93 Stigmatized Groups in Masked Language Models and Downstream Sentiment Classification Tasks](https://dl.acm.org/doi/10.1145/3593013.3594109). Katelyn X. Mei, Sonia Fereidooni, Aylin Caliskan. ACM FAccT 2023
+52. [On the Independence of Association Bias and Empirical Fairness in Language Models](https://dl.acm.org/doi/10.1145/3593013.3594004). Laura Cabello, Anna Katrine Jørgensen, Anders Søgaard. ACM FAccT 2023
 
 ##### Bias Mitigation
 1. [Reducing Gender Bias in Abusive Language Detection](https://www.aclweb.org/anthology/D18-1302), Park, Ji Ho  and Shin, Jamin  and Fung, Pascale, 2018
@@ -339,6 +344,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 25. [A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation](https://aclanthology.org/2022.naacl-main.223.pdf). David Adelani et. al. NAACL 2022.
 26. [Exploiting Biased Models to De-bias Text: A Gender-Fair Rewriting Model](https://aclanthology.org/2023.acl-long.246/). Chantal Amrhein, Florian Schottmann, Rico Sennrich, Samuel Läubli. ACL 2023
 27. [Towards Robust NLG Bias Evaluation with Syntactically-diverse Prompts](https://aclanthology.org/2022.findings-emnlp.445/). Arshiya Aggarwal, Jiao Sun, Nanyun Peng. EMNLP 2022
+28. [“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation](https://dl.acm.org/doi/10.1145/3593013.3594078). Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta. ACM FAccT 2023
 
 #### Bias Visualization
 1. [Fairsight: Visual analytics for fairness in decision making](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805420), Ahn, Yongsu and Lin, Yuru, 2019
