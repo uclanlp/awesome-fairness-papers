@@ -121,6 +121,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 45. [FairLib: A Unified Framework for Assessing and Improving Fairness](https://aclanthology.org/2022.emnlp-demos.7/). Xudong Han, Aili Shen, Yitong Li, Lea Frermann, Timothy Baldwin, Trevor Cohn. EMNLP 2022
 46. [Towards Identifying Social Bias in Dialog Systems: Framework, Dataset, and Benchmark](https://aclanthology.org/2022.findings-emnlp.262/). Jingyan Zhou, Jiawen Deng, Fei Mi, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen Meng. EMNLP 2022
 47. [Detecting Unintended Social Bias in Toxic Language Datasets](https://aclanthology.org/2022.conll-1.10/). Nihar Sahoo, Himanshu Gupta, Pushpak Bhattacharyya. EMNLP 2022
+48. [Toward Gender-Inclusive Coreference Resolution](https://aclanthology.org/2020.acl-main.418/). Yang Trista Cao, Hal Daumé III. ACL 2020.
 
 #### Word/Sentence Representations
 1. [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520), Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam, 2016 [[github]](https://github.com/tolga-b/debiaswe)
