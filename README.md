@@ -1,11 +1,11 @@
 # awesome-fairness-papers
-Papers about fairness in NLP
+Papers about fairness in NLP and Multi-Modal Models
 
-[Christina Chance](https://www.linkedin.com/in/christina-chance-147666166), [Jieyu Zhao](https://jyzhao.net/), [Emily Sheng](https://ewsheng.github.io/), [Sunipa Dev](https://sunipa.github.io/), [Yu (Hope) Hou](https://github.com/houyu0930), [Nanyun (Violet) Peng](https://vnpeng.net/),
+[Christina Chance](https://www.linkedin.com/in/christina-chance-147666166), [Yixin Wan](https://www.linkedin.com/in/elaine-yixin-wan-8032b8136/), [Jieyu Zhao](https://jyzhao.net/), [Emily Sheng](https://ewsheng.github.io/), [Sunipa Dev](https://sunipa.github.io/), [Yu (Hope) Hou](https://github.com/houyu0930), [Nanyun (Violet) Peng](https://vnpeng.net/),
 and [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)
 
 ## Background
-Fairness, accountability, transparency, and ethics are becoming more and more important in Natural Language Processing (NLP). We provide a list of papers that serve as references for researchers interested in these topics. This repo mainly focuses on papers published in the NLP venues, but we also point to some other resources at the end.
+Fairness, accountability, transparency, and ethics are becoming more and more important in Natural Language Processing (NLP) and Multi-Modal Settings. We provide a list of papers that serve as references for researchers interested in these topics. This repo mainly focuses on papers published in the NLP venues, but we also point to some other resources at the end.
 
 For relevant courses and other resources, please refer to [ACL Wiki](https://aclweb.org/aclwiki/Ethics_in_NLP)
 <!-- <p align='center'>
@@ -32,6 +32,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
         - [Machine Translation](#machine-translation)
         - [Dialogue Generation](#dialogue-generation)
         - [Other Generation](#other-generation)
+      - [Multi-Modal Setting] (#multi-modal-setting)
       - [Bias Visualization](#bias-visualization)
       - [Others](#others)
     - [Tutorial List](#tutorial-list)
@@ -346,6 +347,9 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 26. [Exploiting Biased Models to De-bias Text: A Gender-Fair Rewriting Model](https://aclanthology.org/2023.acl-long.246/). Chantal Amrhein, Florian Schottmann, Rico Sennrich, Samuel Läubli. ACL 2023
 27. [Towards Robust NLG Bias Evaluation with Syntactically-diverse Prompts](https://aclanthology.org/2022.findings-emnlp.445/). Arshiya Aggarwal, Jiao Sun, Nanyun Peng. EMNLP 2022
 28. [“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation](https://dl.acm.org/doi/10.1145/3593013.3594078). Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta. ACM FAccT 2023
+
+#### Multi-Modal Setting
+1. [Studying Bias in GANs through the Lens of Race] (https://arxiv.org/abs/2209.02836), Maluleke, Vongani H. and Thakkar, Neerja and Brooks, Tim and Weber, Ethan and Darrell, Trevor and Efros, Alexei A. and Kanazawa, Angjoo and Guillory, Devin, 2022
 
 #### Bias Visualization
 1. [Fairsight: Visual analytics for fairness in decision making](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805420), Ahn, Yongsu and Lin, Yuru, 2019
