@@ -349,7 +349,7 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 28. [“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation](https://dl.acm.org/doi/10.1145/3593013.3594078). Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta. ACM FAccT 2023
 
 #### Multi-Modal Setting
-1. [Studying Bias in GANs through the Lens of Race] (https://arxiv.org/abs/2209.02836), Maluleke, Vongani H. and Thakkar, Neerja and Brooks, Tim and Weber, Ethan and Darrell, Trevor and Efros, Alexei A. and Kanazawa, Angjoo and Guillory, Devin, 2022
+1. [Studying Bias in GANs through the Lens of Race](https://arxiv.org/abs/2209.02836), Maluleke, Vongani H. and Thakkar, Neerja and Brooks, Tim and Weber, Ethan and Darrell, Trevor and Efros, Alexei A. and Kanazawa, Angjoo and Guillory, Devin, 2022
 
 #### Bias Visualization
 1. [Fairsight: Visual analytics for fairness in decision making](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805420), Ahn, Yongsu and Lin, Yuru, 2019
