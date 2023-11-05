@@ -32,7 +32,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
         - [Machine Translation](#machine-translation)
         - [Dialogue Generation](#dialogue-generation)
         - [Other Generation](#other-generation)
-      - [Multi-Modal Setting] (#multi-modal-setting)
+      - [Multi-Modal Setting](#multi-modal-setting)
       - [Bias Visualization](#bias-visualization)
       - [Others](#others)
     - [Tutorial List](#tutorial-list)
