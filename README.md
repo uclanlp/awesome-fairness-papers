@@ -357,13 +357,17 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 3. [DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models](https://arxiv.org/abs/2202.04053), Cho, Jaemin and Zala, Abhay and Bansal, Mohit, 2022
 4. [Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale](https://arxiv.org/abs/2211.03759), Bianchi, Federico and Kalluri, Pratyusha and Durmus, Esin and Ladhak, Faisal and Cheng, Myra and Nozza, Debora and Hashimoto, Tatsunori and Jurafsky, Dan and Zou, James and Caliskan, Aylin, 2022
 5. [Social Biases through the Text-to-Image Generation Lens](https://arxiv.org/abs/2304.06034), Naik, Ranjita and Nushi, Besmira, 2023
-6. [T2IAT: Measuring Valence and Stereotypical Biases in Text-to-Image Generation](https://aclanthology.org/2023.findings-acl.160/), Wang, Jialu and Liu, Xinyue and Di, Zonglin and Liu, Yang and Wang, Xin, 2023
+6. [T2IAT: Measuring Valence and Stereotypical Biases in Text-to-Image Generation](https://aclanthology.org/2023.findings-acl.160/), Wang, Jialu and Liu, Xinyue and Di, Zonglin and Liu, Yang and Wang, Xin, ACL 2023
 7. [The Bias Amplification Paradox in Text-to-Image Generation](https://arxiv.org/abs/2308.00755), Seshadri, Preethi and Singh, Sameer and Elazar, Yanai, 2023
+8. [Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness](https://arxiv.org/abs/2302.10893), Friedrich, Felix and Brack, Manuel and Struppek, Lukas and Hintersdorf, Dominik and Schramowski, Patrick and Luccioni, Sasha and Kersting, Kristian, 2023
+9. [Uncurated image-text datasets: Shedding light on demographic bias.](https://openaccess.thecvf.com/content/CVPR2023/papers/Garcia_Uncurated_Image-Text_Datasets_Shedding_Light_on_Demographic_Bias_CVPR_2023_paper.pdf), Garcia, Noa and Hirota, Yusuke and Wu, Yankun and Nakashima, Yuta, CVPR 2023
+10. [Word-Level Explanations for Analyzing Bias in Text-to-Image Models](https://arxiv.org/abs/2306.05500), Lin, Alexander and Paes, Lucas Monteiro and Tanneru, Sree Harsha and Srinivas, Suraj and Lakkaraju, Himabindu, 2023
 
 ##### Bias Mitigation in Multi-Modal Setting
 1. [Improving the Fairness of Deep Generative Models without Retraining](https://arxiv.org/abs/2012.04842), Tan, Shuhan and Shen, Yujun and Zhou, Bolei, 2020
 2. [RepFair-GAN: Mitigating Representation Bias in GANs Using Gradient Clipping](https://arxiv.org/abs/2207.10653), Kenfack, Patrik Joslin and Sabbagh, Kamil and Rivera, Adín Ramírez and Khan, Adil, 2022
 3. [The Bias Amplification Paradox in Text-to-Image Generation](https://arxiv.org/abs/2308.00755), Seshadri, Preethi and Singh, Sameer and Elazar, Yanai, 2023
+4. [Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness](https://arxiv.org/abs/2302.10893), Friedrich, Felix and Brack, Manuel and Struppek, Lukas and Hintersdorf, Dominik and Schramowski, Patrick and Luccioni, Sasha and Kersting, Kristian, 2023
 
 #### Bias Visualization
 1. [Fairsight: Visual analytics for fairness in decision making](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805420), Ahn, Yongsu and Lin, Yuru, 2019
