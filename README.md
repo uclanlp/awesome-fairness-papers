@@ -349,7 +349,13 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 28. [“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation](https://dl.acm.org/doi/10.1145/3593013.3594078). Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta. ACM FAccT 2023
 
 #### Multi-Modal Setting
+##### Bias Detection
 1. [Studying Bias in GANs through the Lens of Race](https://arxiv.org/abs/2209.02836), Maluleke, Vongani H. and Thakkar, Neerja and Brooks, Tim and Weber, Ethan and Darrell, Trevor and Efros, Alexei A. and Kanazawa, Angjoo and Guillory, Devin, 2022
+2. [Imperfect ImaGANation: Implications of GANs Exacerbating Biases on Facial Data Augmentation and Snapchat Selfie Lenses](https://www.semanticscholar.org/paper/Imperfect-ImaGANation%3A-Implications-of-GANs-Biases-Jain-Hernandez/2b15d1a1b354573b3ce23b18991d15c850a8546b), Jain, Niharika and Hernandez, Alberto Olmo and Sengupta, Sailik and Manikonda, Lydia and Kambhampati, S., 2020
+
+##### Bias Mitigation
+1. [Improving the Fairness of Deep Generative Models without Retraining](https://arxiv.org/abs/2012.04842), Tan, Shuhan and Shen, Yujun and Zhou, Bolei, 2020
+2. [RepFair-GAN: Mitigating Representation Bias in GANs Using Gradient Clipping](https://arxiv.org/abs/2207.10653), Kenfack, Patrik Joslin and Sabbagh, Kamil and Rivera, Adín Ramírez and Khan, Adil, 2022
 
 #### Bias Visualization
 1. [Fairsight: Visual analytics for fairness in decision making](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805420), Ahn, Yongsu and Lin, Yuru, 2019
