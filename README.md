@@ -354,10 +354,16 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 ##### Bias Detection in Multi-Modal Setting
 1. [Studying Bias in GANs through the Lens of Race](https://arxiv.org/abs/2209.02836), Maluleke, Vongani H. and Thakkar, Neerja and Brooks, Tim and Weber, Ethan and Darrell, Trevor and Efros, Alexei A. and Kanazawa, Angjoo and Guillory, Devin, 2022
 2. [Imperfect ImaGANation: Implications of GANs Exacerbating Biases on Facial Data Augmentation and Snapchat Selfie Lenses](https://www.semanticscholar.org/paper/Imperfect-ImaGANation%3A-Implications-of-GANs-Biases-Jain-Hernandez/2b15d1a1b354573b3ce23b18991d15c850a8546b), Jain, Niharika and Hernandez, Alberto Olmo and Sengupta, Sailik and Manikonda, Lydia and Kambhampati, S., 2020
+3. [DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models](https://arxiv.org/abs/2202.04053), Cho, Jaemin and Zala, Abhay and Bansal, Mohit, 2022
+4. [Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale](https://arxiv.org/abs/2211.03759), Bianchi, Federico and Kalluri, Pratyusha and Durmus, Esin and Ladhak, Faisal and Cheng, Myra and Nozza, Debora and Hashimoto, Tatsunori and Jurafsky, Dan and Zou, James and Caliskan, Aylin, 2022
+5. [Social Biases through the Text-to-Image Generation Lens](https://arxiv.org/abs/2304.06034), Naik, Ranjita and Nushi, Besmira, 2023
+6. [T2IAT: Measuring Valence and Stereotypical Biases in Text-to-Image Generation](https://aclanthology.org/2023.findings-acl.160/), Wang, Jialu and Liu, Xinyue and Di, Zonglin and Liu, Yang and Wang, Xin, 2023
+7. [The Bias Amplification Paradox in Text-to-Image Generation](https://arxiv.org/abs/2308.00755), Seshadri, Preethi and Singh, Sameer and Elazar, Yanai, 2023
 
 ##### Bias Mitigation in Multi-Modal Setting
 1. [Improving the Fairness of Deep Generative Models without Retraining](https://arxiv.org/abs/2012.04842), Tan, Shuhan and Shen, Yujun and Zhou, Bolei, 2020
 2. [RepFair-GAN: Mitigating Representation Bias in GANs Using Gradient Clipping](https://arxiv.org/abs/2207.10653), Kenfack, Patrik Joslin and Sabbagh, Kamil and Rivera, Adín Ramírez and Khan, Adil, 2022
+3. [The Bias Amplification Paradox in Text-to-Image Generation](https://arxiv.org/abs/2308.00755), Seshadri, Preethi and Singh, Sameer and Elazar, Yanai, 2023
 
 #### Bias Visualization
 1. [Fairsight: Visual analytics for fairness in decision making](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805420), Ahn, Yongsu and Lin, Yuru, 2019
