@@ -33,8 +33,8 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
         - [Dialogue Generation](#dialogue-generation)
         - [Other Generation](#other-generation)
       - [Multi-Modal Setting](#multi-modal-setting)
-        - [Bias Detection](#multi-modal-bias-detection)
-        - [Bias Mitigation](#multi-modal-bias-mitigation)
+        - [Bias Detection in Multi-Modal Setting](#multi-modal-bias-detection)
+        - [Bias Mitigation in Multi-Modal Setting](#multi-modal-bias-mitigation)
       - [Bias Visualization](#bias-visualization)
       - [Others](#others)
     - [Tutorial List](#tutorial-list)
@@ -351,11 +351,11 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 28. [“I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation](https://dl.acm.org/doi/10.1145/3593013.3594078). Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta. ACM FAccT 2023
 
 #### Multi-Modal Setting
-##### Bias Detection
+##### Bias Detection in Multi-Modal Setting
 1. [Studying Bias in GANs through the Lens of Race](https://arxiv.org/abs/2209.02836), Maluleke, Vongani H. and Thakkar, Neerja and Brooks, Tim and Weber, Ethan and Darrell, Trevor and Efros, Alexei A. and Kanazawa, Angjoo and Guillory, Devin, 2022
 2. [Imperfect ImaGANation: Implications of GANs Exacerbating Biases on Facial Data Augmentation and Snapchat Selfie Lenses](https://www.semanticscholar.org/paper/Imperfect-ImaGANation%3A-Implications-of-GANs-Biases-Jain-Hernandez/2b15d1a1b354573b3ce23b18991d15c850a8546b), Jain, Niharika and Hernandez, Alberto Olmo and Sengupta, Sailik and Manikonda, Lydia and Kambhampati, S., 2020
 
-##### Bias Mitigation
+##### Bias Mitigation in Multi-Modal Setting
 1. [Improving the Fairness of Deep Generative Models without Retraining](https://arxiv.org/abs/2012.04842), Tan, Shuhan and Shen, Yujun and Zhou, Bolei, 2020
 2. [RepFair-GAN: Mitigating Representation Bias in GANs Using Gradient Clipping](https://arxiv.org/abs/2207.10653), Kenfack, Patrik Joslin and Sabbagh, Kamil and Rivera, Adín Ramírez and Khan, Adil, 2022
 
