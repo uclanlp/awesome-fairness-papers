@@ -60,6 +60,7 @@ For relevant courses and other resources, please refer to [ACL Wiki](https://acl
 13. [Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained](https://aclanthology.org/2022.naacl-main.122.pdf). Language Models Pieter Delobelle, Ewoenam Kwaku Tokpo, Toon Calders, Bettina Berendt. NAACL 2022
 14. [Benchmarking Intersectional Biases in NLP](https://aclanthology.org/2022.naacl-main.263.pdf). John Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi. NAACL 2022.
 15. [Measure and Improve Robustness in NLP Models: A Survey](https://aclanthology.org/2022.naacl-main.339.pdf). Xuezhi Wang, Haohan Wang, Diyi Yang. NAACL 2022.
+16. [Bias and Fairness in Large Language Models: A Survey](https://arxiv.org/abs/2309.00770). Isabel O. Gallegos, Ryan A. Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, and Nesreen K. Ahmed, 2023
 
 #### Social Impact of Biases
 1. [The Social Impact of Natural Language Processing](https://www.aclweb.org/anthology/P16-2096), Hovy, Dirk and Spruit, Shannon L., 2016
